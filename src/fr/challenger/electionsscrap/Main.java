@@ -189,12 +189,13 @@ public class Main {
 		return content;
 	}
 	
-	private static Map<String, Integer> countElu(final String page)
+	private static Pair<Map<String, Integer>, Map<String, Integer>> countElu(final String page)
 	{
+		final Map<String, Integer> firstPlace = new HashMap<>();
 		final Map<String, Integer> elus = new HashMap<>();
 		final String downloadedPage = downloadPage(page);
 		
-		if (downloadedPage == null) return elus;
+		if (downloadedPage == null) return Pair.of(firstPlace, elus);
 		
 		final String[] circons = downloadedPage.split(CIRCON_MOTIF);
 		String circon;
@@ -226,42 +227,48 @@ public class Main {
 			
 			if (resultPercent >= 50.0 && participPercent >= 50.0)
 				elus.put(infosResult[1], elus.getOrDefault(infosResult[1], 0) + 1);
+			firstPlace.put(infosResult[1], firstPlace.getOrDefault(infosResult[1], 0) + 1);
 		}
 		
-		return elus;
+		return Pair.of(firstPlace, elus);
 	}
 	
-	private static Map<String, Integer> countForAll()
+	private static void mapComplete(final Map<String, Integer> map, final Map<String, Integer> part)
 	{
+		for (final Entry<String, Integer> entry : part.entrySet())
+		{
+			map.put(entry.getKey(), map.getOrDefault(entry.getKey(), 0) + entry.getValue());
+		}
+	}
+	
+	private static Pair<Map<String, Integer>, Map<String, Integer>> countForAll()
+	{
+		final Map<String, Integer> firstPlace = new HashMap<>();
 		final Map<String, Integer> elus = new HashMap<>();
 		
 		for (final String page : pages)
 		{
 			System.out.println(CYAN + "Étude du département " + page + " :" + RESET + "\n");
 			
-			final Map<String, Integer> localElus = countElu(page);
+			final Pair<Map<String, Integer>, Map<String, Integer>> localElus = countElu(page);
 			
-			for (final Entry<String, Integer> entry : localElus.entrySet())
-			{
-				elus.put(entry.getKey(), elus.getOrDefault(entry.getKey(), 0) + entry.getValue());
-			}
+			mapComplete(firstPlace, localElus.getLeft());
+			mapComplete(elus, localElus.getRight());
 			
 			System.out.println("");
 			sleep();
 		}
 		
-		return elus;
+		return Pair.of(firstPlace, elus);
 	}
 	
-	private static void printForAll()
+	private static void printForCategory(final String category, final List<Map.Entry<String, Integer>> partis)
 	{
-		final Map<String, Integer> elus = countForAll();
-		final List<Map.Entry<String, Integer>> partis = new ArrayList<>(elus.entrySet());
 		int i = 0;
-
+		
 		partis.sort((e1, e2) -> e2.getValue().compareTo(e1.getValue()));
 		
-		System.out.println("\nDÉPUTÉS ÉLUS :\n");
+		System.out.println("\n" + category + " :\n");
 		
 		while (i < partis.size())
 		{
@@ -269,6 +276,16 @@ public class Main {
 			
 			System.out.println(i + ". " + parti.getKey() + " : " + parti.getValue() + " députés élus");
 		}
+	}
+	
+	private static void printForAll()
+	{
+		final Pair<Map<String, Integer>, Map<String, Integer>> elus = countForAll();
+		final List<Map.Entry<String, Integer>> partisFirst = new ArrayList<>(elus.getLeft().entrySet());
+		final List<Map.Entry<String, Integer>> partisElus = new ArrayList<>(elus.getRight().entrySet());
+		
+		printForCategory("DÉPUTÉS EN TÊTE", partisFirst);
+		printForCategory("DÉPUTÉS ÉLUS", partisElus);
 	}
 	
 	public static void main(String[] args) throws InterruptedException
