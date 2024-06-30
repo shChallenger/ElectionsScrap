@@ -1,0 +1,1411 @@
+[36mÉtude du département ain_01 :[0m
+
+  * Circonscription n°1 : (Participation: 71.2%)
+[31m     -> Candidat en tête : Christophe MAÎTRE - Rassemblement national - 39.37%[0m
+  * Circonscription n°2 : (Participation: 72.09%)
+[31m     -> Candidat en tête : Andréa KOTARAC - Rassemblement national - 39.2%[0m
+  * Circonscription n°3 : (Participation: 65.33%)
+[31m     -> Candidat en tête : Olga GIVERNET - Ensemble - 32.43%[0m
+  * Circonscription n°4 : (Participation: 70.31%)
+[31m     -> Candidat en tête : Jérôme BUISSON - Rassemblement national - 46.01%[0m
+  * Circonscription n°5 : (Participation: 68.0%)
+[31m     -> Candidat en tête : Marc CHAVENT - Rassemblement national - 39.12%[0m
+
+[36mÉtude du département aisne_02 :[0m
+
+  * Circonscription n°1 : (Participation: 65.35%)
+[32m     -> Candidat en tête : Nicolas DRAGON - Rassemblement national - 54.49%[0m
+  * Circonscription n°2 : (Participation: 63.82%)
+[31m     -> Candidat en tête : Philippe TORRE - Rassemblement national - 47.06%[0m
+  * Circonscription n°3 : (Participation: 64.16%)
+[32m     -> Candidat en tête : Eddy CASTERMAN - Extrême droite - 57.64%[0m
+  * Circonscription n°4 : (Participation: 61.41%)
+[32m     -> Candidat en tête : José BEAURAIN - Rassemblement national - 55.04%[0m
+  * Circonscription n°5 : (Participation: 65.34%)
+[32m     -> Candidat en tête : Jocelyn DESSIGNY - Rassemblement national - 53.07%[0m
+
+[36mÉtude du département allier_03 :[0m
+
+  * Circonscription n°1 : (Participation: 69.18%)
+[31m     -> Candidat en tête : Anne-Marie THÈS - Rassemblement national - 38.61%[0m
+  * Circonscription n°2 : (Participation: 68.04%)
+[31m     -> Candidat en tête : Jorys BOVET - Rassemblement national - 34.33%[0m
+  * Circonscription n°3 : (Participation: 69.08%)
+[31m     -> Candidat en tête : Nicolas RAY - Les Républicains - 40.05%[0m
+
+[36mÉtude du département alpes-de-haute-provence_04 :[0m
+
+  * Circonscription n°1 : (Participation: 70.4%)
+[31m     -> Candidat en tête : Christian GIRARD - Rassemblement national - 44.3%[0m
+  * Circonscription n°2 : (Participation: 69.84%)
+[31m     -> Candidat en tête : Sophie VAGINAY - Rassemblement national - 40.89%[0m
+
+[36mÉtude du département hautes-alpes_05 :[0m
+
+  * Circonscription n°1 : (Participation: 70.8%)
+[31m     -> Candidat en tête : Jérôme SAINTE-MARIE - Rassemblement national - 38.24%[0m
+  * Circonscription n°2 : (Participation: 72.85%)
+[31m     -> Candidat en tête : Louis ALBRAND - Rassemblement national - 33.88%[0m
+
+[36mÉtude du département alpes-maritimes_06 :[0m
+
+  * Circonscription n°1 : (Participation: 63.19%)
+[31m     -> Candidat en tête : Eric CIOTTI - Rassemblement national - 41.04%[0m
+  * Circonscription n°2 : (Participation: 67.57%)
+[31m     -> Candidat en tête : Lionel TIVOLI - Rassemblement national - 48.08%[0m
+  * Circonscription n°3 : (Participation: 64.34%)
+[31m     -> Candidat en tête : Bernard CHAIX - Rassemblement national - 41.47%[0m
+  * Circonscription n°4 : (Participation: 65.22%)
+[32m     -> Candidat en tête : Alexandra MASSON - Rassemblement national - 56.27%[0m
+  * Circonscription n°5 : (Participation: 66.66%)
+[32m     -> Candidat en tête : Christelle D&#039;INTORNI - Rassemblement national - 50.35%[0m
+  * Circonscription n°6 : (Participation: 69.46%)
+[32m     -> Candidat en tête : Bryan MASSON - Rassemblement national - 50.85%[0m
+  * Circonscription n°7 : (Participation: 69.47%)
+[31m     -> Candidat en tête : Thierry FERRAND - Rassemblement national - 36.32%[0m
+  * Circonscription n°8 : (Participation: 64.77%)
+[31m     -> Candidat en tête : Dorette LANDERER - Rassemblement national - 42.74%[0m
+  * Circonscription n°9 : (Participation: 66.88%)
+[31m     -> Candidat en tête : Franck GALBERT - Rassemblement national - 42.31%[0m
+
+[36mÉtude du département ardeche_07 :[0m
+
+  * Circonscription n°1 : (Participation: 70.34%)
+[31m     -> Candidat en tête : Céline PORQUET - Rassemblement national - 39.94%[0m
+  * Circonscription n°2 : (Participation: 72.48%)
+[31m     -> Candidat en tête : Vincent TREBUCHET - Rassemblement national - 35.76%[0m
+  * Circonscription n°3 : (Participation: 72.43%)
+[31m     -> Candidat en tête : Cyrille GRANGIER - Rassemblement national - 31.95%[0m
+
+[36mÉtude du département ardennes_08 :[0m
+
+  * Circonscription n°1 : (Participation: 67.29%)
+[31m     -> Candidat en tête : Flavien TERMET - Rassemblement national - 38.33%[0m
+  * Circonscription n°2 : (Participation: 62.32%)
+[31m     -> Candidat en tête : Pauline MESTER - Rassemblement national - 40.83%[0m
+  * Circonscription n°3 : (Participation: 65.85%)
+[31m     -> Candidat en tête : Jean-Luc WARSMANN - Divers droite - 43.56%[0m
+
+[36mÉtude du département ariege_09 :[0m
+
+  * Circonscription n°1 : (Participation: 71.11%)
+[32m     -> Candidat en tête : Martine FROGER - Nouveau Front populaire - 50.74%[0m
+  * Circonscription n°2 : (Participation: 70.09%)
+[31m     -> Candidat en tête : Laurent PANIFOUS - Nouveau Front populaire - 48.25%[0m
+
+[36mÉtude du département aube_10 :[0m
+
+  * Circonscription n°1 : (Participation: 67.99%)
+[32m     -> Candidat en tête : Jordan GUITTON - Rassemblement national - 53.84%[0m
+  * Circonscription n°2 : (Participation: 68.86%)
+[31m     -> Candidat en tête : Albéric FERRAND - Rassemblement national - 44.83%[0m
+  * Circonscription n°3 : (Participation: 65.03%)
+[31m     -> Candidat en tête : Angélique RANC - Rassemblement national - 43.33%[0m
+
+[36mÉtude du département aude_11 :[0m
+
+  * Circonscription n°1 : (Participation: 70.01%)
+[31m     -> Candidat en tête : Christophe BARTHÈS - Rassemblement national - 49.33%[0m
+  * Circonscription n°2 : (Participation: 67.78%)
+[31m     -> Candidat en tête : Frédéric FALCON - Rassemblement national - 48.12%[0m
+  * Circonscription n°3 : (Participation: 72.07%)
+[31m     -> Candidat en tête : Julien RANCOULE - Rassemblement national - 44.7%[0m
+
+[36mÉtude du département aveyron_12 :[0m
+
+  * Circonscription n°1 : (Participation: 73.75%)
+[31m     -> Candidat en tête : Stéphane MAZARS - Ensemble - 43.59%[0m
+  * Circonscription n°2 : (Participation: 73.69%)
+[31m     -> Candidat en tête : Marie-Christine PAROLIN - Rassemblement national - 33.11%[0m
+  * Circonscription n°3 : (Participation: 73.58%)
+[31m     -> Candidat en tête : Pierre-Antoine FEVRE - Rassemblement national - 35.45%[0m
+
+[36mÉtude du département bouches-du-rhone_13 :[0m
+
+  * Circonscription n°1 : (Participation: 65.91%)
+[31m     -> Candidat en tête : Monique GRISETI - Rassemblement national - 45.54%[0m
+  * Circonscription n°2 : (Participation: 70.64%)
+[31m     -> Candidat en tête : Olivier RIOULT - Rassemblement national - 32.1%[0m
+  * Circonscription n°3 : (Participation: 61.4%)
+[31m     -> Candidat en tête : Gisèle LELOUIS - Rassemblement national - 42.75%[0m
+  * Circonscription n°4 : (Participation: 59.95%)
+[32m     -> Candidat en tête : Manuel BOMPARD - Nouveau Front populaire - 67.49%[0m
+  * Circonscription n°5 : (Participation: 67.55%)
+[31m     -> Candidat en tête : Franck LIQUORI - Rassemblement national - 25.77%[0m
+  * Circonscription n°6 : (Participation: 64.09%)
+[31m     -> Candidat en tête : Olivier FAYSSAT - Rassemblement national - 38.27%[0m
+  * Circonscription n°7 : (Participation: 52.36%)
+[32m     -> Candidat en tête : Sébastien DELOGU - Nouveau Front populaire - 59.67%[0m
+  * Circonscription n°8 : (Participation: 68.33%)
+[31m     -> Candidat en tête : Romain TONUSSI - Rassemblement national - 44.63%[0m
+  * Circonscription n°9 : (Participation: 67.25%)
+[31m     -> Candidat en tête : Joëlle MÉLIN - Rassemblement national - 45.2%[0m
+  * Circonscription n°10 : (Participation: 71.38%)
+[31m     -> Candidat en tête : José GONZALEZ - Rassemblement national - 48.83%[0m
+  * Circonscription n°11 : (Participation: 68.98%)
+[31m     -> Candidat en tête : Hervé FABRE-AUBRESPY - Rassemblement national - 38.87%[0m
+  * Circonscription n°12 : (Participation: 65.87%)
+[32m     -> Candidat en tête : Franck ALLISIO - Rassemblement national - 54.07%[0m
+  * Circonscription n°13 : (Participation: 64.07%)
+[31m     -> Candidat en tête : Emmanuel FOUQUART - Rassemblement national - 47.53%[0m
+  * Circonscription n°14 : (Participation: 70.24%)
+[31m     -> Candidat en tête : Gérault VERNY - Rassemblement national - 31.65%[0m
+  * Circonscription n°15 : (Participation: 70.57%)
+[31m     -> Candidat en tête : Romain BAUBRY - Rassemblement national - 49.48%[0m
+  * Circonscription n°16 : (Participation: 67.14%)
+[31m     -> Candidat en tête : Emmanuel TACHE DE LA PAGERIE - Rassemblement national - 47.12%[0m
+
+[36mÉtude du département calvados_14 :[0m
+
+  * Circonscription n°1 : (Participation: 72.96%)
+[31m     -> Candidat en tête : Joël BRUNEAU - Divers droite - 43.11%[0m
+  * Circonscription n°2 : (Participation: 68.74%)
+[31m     -> Candidat en tête : Arthur DELAPORTE - Nouveau Front populaire - 42.34%[0m
+  * Circonscription n°3 : (Participation: 67.41%)
+[31m     -> Candidat en tête : Edouard FAUVAGE - Rassemblement national - 41.09%[0m
+  * Circonscription n°4 : (Participation: 70.09%)
+[31m     -> Candidat en tête : Chantal HENRY - Rassemblement national - 33.65%[0m
+  * Circonscription n°5 : (Participation: 72.4%)
+[31m     -> Candidat en tête : Philippe CHAPRON - Rassemblement national - 31.86%[0m
+  * Circonscription n°6 : (Participation: 71.31%)
+[31m     -> Candidat en tête : Nicolas CALBRIX - Rassemblement national - 36.26%[0m
+
+[36mÉtude du département cantal_15 :[0m
+
+  * Circonscription n°1 : (Participation: 72.8%)
+[31m     -> Candidat en tête : Vincent DESCOEUR - Divers droite - 37.66%[0m
+  * Circonscription n°2 : (Participation: 70.88%)
+[31m     -> Candidat en tête : Jean Yves BONY - Divers droite - 34.29%[0m
+
+[36mÉtude du département charente_16 :[0m
+
+  * Circonscription n°1 : (Participation: 67.7%)
+[31m     -> Candidat en tête : René PILATO - Nouveau Front populaire - 32.8%[0m
+  * Circonscription n°2 : (Participation: 68.61%)
+[31m     -> Candidat en tête : Barthélemy MARTIN - Rassemblement national - 38.91%[0m
+  * Circonscription n°3 : (Participation: 69.55%)
+[31m     -> Candidat en tête : Caroline COLOMBIER - Rassemblement national - 42.95%[0m
+
+[36mÉtude du département charente-maritime_17 :[0m
+
+  * Circonscription n°1 : (Participation: 69.48%)
+[31m     -> Candidat en tête : Olivier FALORNI - Divers gauche - 45.64%[0m
+  * Circonscription n°2 : (Participation: 70.42%)
+[31m     -> Candidat en tête : Karen BERTHOLOM - Rassemblement national - 34.41%[0m
+  * Circonscription n°3 : (Participation: 68.93%)
+[31m     -> Candidat en tête : Stéphane MORIN - Rassemblement national - 40.85%[0m
+  * Circonscription n°4 : (Participation: 68.8%)
+[31m     -> Candidat en tête : Pascal MARKOWSKY - Rassemblement national - 45.21%[0m
+  * Circonscription n°5 : (Participation: 70.74%)
+[31m     -> Candidat en tête : Aymeric MONGELOUS - Rassemblement national - 43.83%[0m
+
+[36mÉtude du département cher_18 :[0m
+
+  * Circonscription n°1 : (Participation: 66.7%)
+[31m     -> Candidat en tête : Ugo IANNUZZI - Rassemblement national - 39.94%[0m
+  * Circonscription n°2 : (Participation: 64.25%)
+[31m     -> Candidat en tête : Bastian DUENAS - Rassemblement national - 40.56%[0m
+  * Circonscription n°3 : (Participation: 67.1%)
+[31m     -> Candidat en tête : Pierre GENTILLET - Rassemblement national - 43.15%[0m
+
+[36mÉtude du département correze_19 :[0m
+
+  * Circonscription n°1 : (Participation: 74.68%)
+[31m     -> Candidat en tête : François HOLLANDE - Nouveau Front populaire - 37.63%[0m
+  * Circonscription n°2 : (Participation: 71.59%)
+[31m     -> Candidat en tête : Valéry ELOPHE - Rassemblement national - 36.28%[0m
+
+[36mÉtude du département corse-du-sud_2a :[0m
+
+  * Circonscription n°1 : (Participation: 64.47%)
+[31m     -> Candidat en tête : Ariane QUARENA - Rassemblement national - 31.2%[0m
+  * Circonscription n°2 : (Participation: 63.4%)
+[31m     -> Candidat en tête : François FILONI - Rassemblement national - 35.1%[0m
+
+[36mÉtude du département haute-corse_2b :[0m
+
+  * Circonscription n°1 : (Participation: 62.07%)
+[31m     -> Candidat en tête : Michel CASTELLANI - Régionaliste - 31.74%[0m
+  * Circonscription n°2 : (Participation: 66.51%)
+[31m     -> Candidat en tête : François-Xavier CECCOLI - Divers droite - 34.05%[0m
+
+[36mÉtude du département cote-d-or_21 :[0m
+
+  * Circonscription n°1 : (Participation: 72.69%)
+[31m     -> Candidat en tête : Océane GODARD - Nouveau Front populaire - 29.16%[0m
+  * Circonscription n°2 : (Participation: 70.29%)
+[31m     -> Candidat en tête : Tatiana GUYENOT - Rassemblement national - 34.64%[0m
+  * Circonscription n°3 : (Participation: 69.53%)
+[31m     -> Candidat en tête : Thierry COUDERT - Rassemblement national - 35.44%[0m
+  * Circonscription n°4 : (Participation: 71.8%)
+[31m     -> Candidat en tête : Sophie DUMONT - Rassemblement national - 42.24%[0m
+  * Circonscription n°5 : (Participation: 70.74%)
+[31m     -> Candidat en tête : René LIORET - Rassemblement national - 45.31%[0m
+
+[36mÉtude du département cotes-d-armor_22 :[0m
+
+  * Circonscription n°1 : (Participation: 74.2%)
+[31m     -> Candidat en tête : Mickaël COSSON - Ensemble - 32.96%[0m
+  * Circonscription n°2 : (Participation: 74.82%)
+[31m     -> Candidat en tête : Hervé BERVILLE - Ensemble - 33.61%[0m
+  * Circonscription n°3 : (Participation: 73.35%)
+[31m     -> Candidat en tête : Corentin LE FUR - Les Républicains - 31.96%[0m
+  * Circonscription n°4 : (Participation: 73.12%)
+[31m     -> Candidat en tête : Noël LUDE - Rassemblement national - 34.3%[0m
+  * Circonscription n°5 : (Participation: 74.9%)
+[31m     -> Candidat en tête : Eric BOTHOREL - Ensemble - 37.81%[0m
+
+[36mÉtude du département creuse_23 :[0m
+
+  * Circonscription n°1 : (Participation: 70.63%)
+[31m     -> Candidat en tête : Bartolomé LENOIR - Rassemblement national - 33.35%[0m
+
+[36mÉtude du département dordogne_24 :[0m
+
+  * Circonscription n°1 : (Participation: 70.39%)
+[31m     -> Candidat en tête : Nadine LECHON - Rassemblement national - 38.24%[0m
+  * Circonscription n°2 : (Participation: 70.07%)
+[31m     -> Candidat en tête : Serge MULLER - Rassemblement national - 42.71%[0m
+  * Circonscription n°3 : (Participation: 73.9%)
+[31m     -> Candidat en tête : Florence JOUBERT - Rassemblement national - 40.13%[0m
+  * Circonscription n°4 : (Participation: 73.13%)
+[31m     -> Candidat en tête : Dominique-Louise MARCHAUDON - Rassemblement national - 36.01%[0m
+
+[36mÉtude du département doubs_25 :[0m
+
+  * Circonscription n°1 : (Participation: 70.77%)
+[31m     -> Candidat en tête : Laurent CROIZIER - Ensemble - 33.52%[0m
+  * Circonscription n°2 : (Participation: 72.71%)
+[31m     -> Candidat en tête : Dominique VOYNET - Nouveau Front populaire - 34.16%[0m
+  * Circonscription n°3 : (Participation: 68.3%)
+[31m     -> Candidat en tête : Matthieu BLOCH - Rassemblement national - 44.35%[0m
+  * Circonscription n°4 : (Participation: 65.59%)
+[31m     -> Candidat en tête : Géraldine GRANGIER - Rassemblement national - 47.63%[0m
+  * Circonscription n°5 : (Participation: 69.54%)
+[31m     -> Candidat en tête : Annie GENEVARD - Les Républicains - 35.2%[0m
+
+[36mÉtude du département drome_26 :[0m
+
+  * Circonscription n°1 : (Participation: 68.33%)
+[31m     -> Candidat en tête : Paul CHRISTOPHLE - Nouveau Front populaire - 32.41%[0m
+  * Circonscription n°2 : (Participation: 68.01%)
+[31m     -> Candidat en tête : Lisette POLLET - Rassemblement national - 42.84%[0m
+  * Circonscription n°3 : (Participation: 74.89%)
+[31m     -> Candidat en tête : Marie POCHON - Nouveau Front populaire - 37.96%[0m
+  * Circonscription n°4 : (Participation: 70.44%)
+[31m     -> Candidat en tête : Thibaut MONNIER - Rassemblement national - 38.38%[0m
+
+[36mÉtude du département eure_27 :[0m
+
+  * Circonscription n°1 : (Participation: 65.51%)
+[31m     -> Candidat en tête : Christine LOIR - Rassemblement national - 46.53%[0m
+  * Circonscription n°2 : (Participation: 68.34%)
+[31m     -> Candidat en tête : Katiana LEVAVASSEUR - Rassemblement national - 43.61%[0m
+  * Circonscription n°3 : (Participation: 68.74%)
+[31m     -> Candidat en tête : Kévin MAUVIEUX - Rassemblement national - 48.88%[0m
+  * Circonscription n°4 : (Participation: 67.5%)
+[31m     -> Candidat en tête : Patrice PAUPER - Rassemblement national - 41.64%[0m
+  * Circonscription n°5 : (Participation: 67.02%)
+[31m     -> Candidat en tête : Timothée HOUSSIN - Rassemblement national - 45.26%[0m
+
+[36mÉtude du département eure-et-loir_28 :[0m
+
+  * Circonscription n°1 : (Participation: 68.42%)
+[31m     -> Candidat en tête : Emma MINOT - Rassemblement national - 33.95%[0m
+  * Circonscription n°2 : (Participation: 63.13%)
+[31m     -> Candidat en tête : Olivier DUBOIS - Rassemblement national - 38.32%[0m
+  * Circonscription n°3 : (Participation: 65.71%)
+[31m     -> Candidat en tête : Christophe BAY - Rassemblement national - 42.73%[0m
+  * Circonscription n°4 : (Participation: 66.51%)
+[31m     -> Candidat en tête : Roger PECOUT - Rassemblement national - 43.15%[0m
+
+[36mÉtude du département finistere_29 :[0m
+
+  * Circonscription n°1 : (Participation: 75.36%)
+[31m     -> Candidat en tête : Annaïg LE MEUR - Ensemble - 33.0%[0m
+  * Circonscription n°2 : (Participation: 69.8%)
+[31m     -> Candidat en tête : Pierre-Yves CADALEN - Nouveau Front populaire - 35.28%[0m
+  * Circonscription n°3 : (Participation: 73.54%)
+[31m     -> Candidat en tête : Didier LE GAC - Ensemble - 38.92%[0m
+  * Circonscription n°4 : (Participation: 73.5%)
+[31m     -> Candidat en tête : Sylvaine VULPIANI - Nouveau Front populaire - 30.92%[0m
+  * Circonscription n°5 : (Participation: 73.64%)
+[31m     -> Candidat en tête : Graziella MELCHIOR - Ensemble - 30.3%[0m
+  * Circonscription n°6 : (Participation: 73.08%)
+[31m     -> Candidat en tête : Mélanie THOMIN - Nouveau Front populaire - 37.88%[0m
+  * Circonscription n°7 : (Participation: 74.76%)
+[31m     -> Candidat en tête : Jugdeep HARVINDER - Nouveau Front populaire - 31.06%[0m
+  * Circonscription n°8 : (Participation: 72.62%)
+[31m     -> Candidat en tête : Christian PEREZ - Rassemblement national - 30.8%[0m
+
+[36mÉtude du département gard_30 :[0m
+
+  * Circonscription n°1 : (Participation: 64.11%)
+[31m     -> Candidat en tête : Yoann GILLET - Rassemblement national - 43.91%[0m
+  * Circonscription n°2 : (Participation: 69.93%)
+[32m     -> Candidat en tête : Nicolas MEIZONNET - Rassemblement national - 52.22%[0m
+  * Circonscription n°3 : (Participation: 70.93%)
+[31m     -> Candidat en tête : Pascale BORDES - Rassemblement national - 47.49%[0m
+  * Circonscription n°4 : (Participation: 69.66%)
+[31m     -> Candidat en tête : Pierre MEURIN - Rassemblement national - 48.69%[0m
+  * Circonscription n°5 : (Participation: 70.33%)
+[31m     -> Candidat en tête : Alexandre ALLEGRET-PILOT - Rassemblement national - 41.02%[0m
+  * Circonscription n°6 : (Participation: 66.27%)
+[31m     -> Candidat en tête : Sylvie JOSSERAND - Rassemblement national - 42.07%[0m
+
+[36mÉtude du département haute-garonne_31 :[0m
+
+  * Circonscription n°1 : (Participation: 71.85%)
+[31m     -> Candidat en tête : Hadrien CLOUET - Nouveau Front populaire - 45.23%[0m
+  * Circonscription n°2 : (Participation: 72.46%)
+[31m     -> Candidat en tête : Anne STAMBACH-TERRENOIR - Nouveau Front populaire - 40.35%[0m
+  * Circonscription n°3 : (Participation: 75.58%)
+[31m     -> Candidat en tête : Agathe ROBY - Nouveau Front populaire - 34.81%[0m
+  * Circonscription n°4 : (Participation: 70.14%)
+[32m     -> Candidat en tête : François PIQUEMAL - Nouveau Front populaire - 52.81%[0m
+  * Circonscription n°5 : (Participation: 71.94%)
+[31m     -> Candidat en tête : Julien LEONARDELLI - Rassemblement national - 39.52%[0m
+  * Circonscription n°6 : (Participation: 74.68%)
+[31m     -> Candidat en tête : Arnaud SIMION - Nouveau Front populaire - 34.03%[0m
+  * Circonscription n°7 : (Participation: 71.25%)
+[31m     -> Candidat en tête : Gaëtan INARD - Rassemblement national - 40.37%[0m
+  * Circonscription n°8 : (Participation: 70.82%)
+[31m     -> Candidat en tête : Loïc DELCHARD - Rassemblement national - 40.54%[0m
+  * Circonscription n°9 : (Participation: 70.29%)
+[31m     -> Candidat en tête : Christine ARRIGHI - Nouveau Front populaire - 47.53%[0m
+  * Circonscription n°10 : (Participation: 77.55%)
+[31m     -> Candidat en tête : Jacques OBERTI - Nouveau Front populaire - 32.21%[0m
+
+[36mÉtude du département gers_32 :[0m
+
+  * Circonscription n°1 : (Participation: 73.93%)
+[31m     -> Candidat en tête : Jean-Luc YELMA - Rassemblement national - 35.71%[0m
+  * Circonscription n°2 : (Participation: 73.76%)
+[31m     -> Candidat en tête : David TAUPIAC - Divers gauche - 45.8%[0m
+
+[36mÉtude du département gironde_33 :[0m
+
+  * Circonscription n°3 : (Participation: 68.72%)
+[31m     -> Candidat en tête : Loïc PRUD&#039;HOMME - Nouveau Front populaire - 46.96%[0m
+  * Circonscription n°4 : (Participation: 65.73%)
+[31m     -> Candidat en tête : Alain DAVID - Nouveau Front populaire - 42.36%[0m
+  * Circonscription n°5 : (Participation: 69.92%)
+[31m     -> Candidat en tête : Grégoire DE FOURNAS - Rassemblement national - 42.32%[0m
+  * Circonscription n°6 : (Participation: 73.5%)
+[31m     -> Candidat en tête : Marie RECALDE - Nouveau Front populaire - 35.24%[0m
+  * Circonscription n°7 : (Participation: 72.04%)
+[31m     -> Candidat en tête : Sébastien SAINT-PASTEUR - Nouveau Front populaire - 38.5%[0m
+  * Circonscription n°8 : (Participation: 71.63%)
+[31m     -> Candidat en tête : Laurent LAMARA - Rassemblement national - 36.83%[0m
+  * Circonscription n°9 : (Participation: 72.19%)
+[31m     -> Candidat en tête : François-Xavier MARQUES - Rassemblement national - 38.54%[0m
+  * Circonscription n°10 : (Participation: 70.63%)
+[31m     -> Candidat en tête : Sandrine CHADOURNE - Rassemblement national - 43.8%[0m
+  * Circonscription n°11 : (Participation: 67.44%)
+[32m     -> Candidat en tête : Edwige DIAZ - Rassemblement national - 53.33%[0m
+  * Circonscription n°12 : (Participation: 72.49%)
+[31m     -> Candidat en tête : Rémy BERTHONNEAU - Rassemblement national - 38.41%[0m
+
+[36mÉtude du département herault_34 :[0m
+
+  * Circonscription n°1 : (Participation: 68.53%)
+[31m     -> Candidat en tête : Josyan OLIVA - Rassemblement national - 34.11%[0m
+  * Circonscription n°2 : (Participation: 64.36%)
+[32m     -> Candidat en tête : Nathalie OZIOL - Nouveau Front populaire - 58.22%[0m
+  * Circonscription n°3 : (Participation: 73.79%)
+[31m     -> Candidat en tête : Fanny DOMBRE-COSTE - Nouveau Front populaire - 33.9%[0m
+  * Circonscription n°4 : (Participation: 73.3%)
+[31m     -> Candidat en tête : Manon BOUQUIN - Rassemblement national - 41.26%[0m
+  * Circonscription n°5 : (Participation: 69.57%)
+[31m     -> Candidat en tête : Stéphanie GALZY - Rassemblement national - 48.88%[0m
+  * Circonscription n°6 : (Participation: 66.97%)
+[31m     -> Candidat en tête : Julien GABARRON - Rassemblement national - 41.11%[0m
+  * Circonscription n°7 : (Participation: 67.84%)
+[32m     -> Candidat en tête : Aurélien LOPEZ-LIGUORI - Rassemblement national - 51.66%[0m
+  * Circonscription n°8 : (Participation: 69.07%)
+[31m     -> Candidat en tête : Cédric DELAPIERRE - Rassemblement national - 40.12%[0m
+  * Circonscription n°9 : (Participation: 67.71%)
+[31m     -> Candidat en tête : Charles ALLONCLE - Rassemblement national - 36.43%[0m
+
+[36mÉtude du département ille-et-vilaine_35 :[0m
+
+  * Circonscription n°1 : (Participation: 72.97%)
+[31m     -> Candidat en tête : Marie MESMEUR - Nouveau Front populaire - 42.31%[0m
+  * Circonscription n°2 : (Participation: 76.87%)
+[31m     -> Candidat en tête : Tristan LAHAIS - Nouveau Front populaire - 40.31%[0m
+  * Circonscription n°3 : (Participation: 73.73%)
+[31m     -> Candidat en tête : Claudia ROUAUX - Nouveau Front populaire - 36.77%[0m
+  * Circonscription n°4 : (Participation: 72.61%)
+[31m     -> Candidat en tête : Jacques FRANÇOIS - Rassemblement national - 32.3%[0m
+  * Circonscription n°5 : (Participation: 72.51%)
+[31m     -> Candidat en tête : Christine LE NABOUR - Ensemble - 42.42%[0m
+  * Circonscription n°6 : (Participation: 73.01%)
+[31m     -> Candidat en tête : Thierry BENOIT - Ensemble - 41.81%[0m
+  * Circonscription n°7 : (Participation: 71.87%)
+[31m     -> Candidat en tête : Jean-Luc BOURGEAUX - Divers droite - 43.33%[0m
+  * Circonscription n°8 : (Participation: 75.31%)
+[32m     -> Candidat en tête : Mickaël BOULOUX - Nouveau Front populaire - 52.84%[0m
+
+[36mÉtude du département indre_36 :[0m
+
+  * Circonscription n°1 : (Participation: 66.06%)
+[31m     -> Candidat en tête : Mylène WUNSCH - Rassemblement national - 40.2%[0m
+  * Circonscription n°2 : (Participation: 69.79%)
+[31m     -> Candidat en tête : Marc SIFFERT - Rassemblement national - 41.71%[0m
+
+[36mÉtude du département indre-et-loire_37 :[0m
+
+  * Circonscription n°1 : (Participation: 66.55%)
+[31m     -> Candidat en tête : Charles FOURNIER - Nouveau Front populaire - 45.21%[0m
+  * Circonscription n°2 : (Participation: 70.52%)
+[31m     -> Candidat en tête : Corine FOUGERON - Rassemblement national - 35.08%[0m
+  * Circonscription n°3 : (Participation: 70.23%)
+[31m     -> Candidat en tête : Henri ALFANDARI - Ensemble - 32.87%[0m
+  * Circonscription n°4 : (Participation: 68.46%)
+[31m     -> Candidat en tête : Jean-François BELLANGER - Rassemblement national - 32.89%[0m
+  * Circonscription n°5 : (Participation: 70.22%)
+[31m     -> Candidat en tête : François DUCAMP - Rassemblement national - 35.25%[0m
+
+[36mÉtude du département isere_38 :[0m
+
+  * Circonscription n°1 : (Participation: 75.86%)
+[31m     -> Candidat en tête : Hugo PREVOST - Nouveau Front populaire - 40.19%[0m
+  * Circonscription n°2 : (Participation: 67.92%)
+[31m     -> Candidat en tête : Cyrielle CHATELAIN - Nouveau Front populaire - 42.17%[0m
+  * Circonscription n°3 : (Participation: 70.01%)
+[31m     -> Candidat en tête : Élisa MARTIN - Nouveau Front populaire - 42.84%[0m
+  * Circonscription n°4 : (Participation: 71.51%)
+[31m     -> Candidat en tête : Marie-Noëlle BATTISTEL - Nouveau Front populaire - 42.52%[0m
+  * Circonscription n°5 : (Participation: 73.48%)
+[31m     -> Candidat en tête : Jérémie IORDANOFF - Nouveau Front populaire - 36.42%[0m
+  * Circonscription n°6 : (Participation: 69.03%)
+[31m     -> Candidat en tête : Alexis JOLLY - Rassemblement national - 47.55%[0m
+  * Circonscription n°7 : (Participation: 71.33%)
+[31m     -> Candidat en tête : Benoît AUGUSTE - Rassemblement national - 42.1%[0m
+  * Circonscription n°8 : (Participation: 70.73%)
+[31m     -> Candidat en tête : Hanane MANSOURI - Rassemblement national - 39.92%[0m
+  * Circonscription n°9 : (Participation: 71.64%)
+[31m     -> Candidat en tête : Cécile BENE - Rassemblement national - 34.04%[0m
+  * Circonscription n°10 : (Participation: 68.13%)
+[31m     -> Candidat en tête : Thierry PEREZ - Rassemblement national - 42.83%[0m
+
+[36mÉtude du département jura_39 :[0m
+
+  * Circonscription n°1 : (Participation: 71.45%)
+[31m     -> Candidat en tête : Valérie GRABY - Rassemblement national - 39.03%[0m
+  * Circonscription n°2 : (Participation: 69.48%)
+[31m     -> Candidat en tête : Marie-Christine DALLOZ - Les Républicains - 38.59%[0m
+  * Circonscription n°3 : (Participation: 71.09%)
+[31m     -> Candidat en tête : Aurore VUILLEMIN-PLANCON - Rassemblement national - 39.73%[0m
+
+[36mÉtude du département landes_40 :[0m
+
+  * Circonscription n°1 : (Participation: 71.13%)
+[31m     -> Candidat en tête : Veronique FOSSEY - Rassemblement national - 37.23%[0m
+  * Circonscription n°2 : (Participation: 71.81%)
+[31m     -> Candidat en tête : Ludovic BIESBROUCK - Rassemblement national - 32.6%[0m
+  * Circonscription n°3 : (Participation: 73.15%)
+[31m     -> Candidat en tête : Boris VALLAUD - Nouveau Front populaire - 37.1%[0m
+
+[36mÉtude du département loir-et-cher_41 :[0m
+
+  * Circonscription n°1 : (Participation: 67.53%)
+[31m     -> Candidat en tête : Marine BARDET - Rassemblement national - 35.22%[0m
+  * Circonscription n°2 : (Participation: 67.38%)
+[31m     -> Candidat en tête : Roger CHUDEAU - Rassemblement national - 49.72%[0m
+  * Circonscription n°3 : (Participation: 70.29%)
+[31m     -> Candidat en tête : Virginia DE OLIVEIRA - Rassemblement national - 41.06%[0m
+
+[36mÉtude du département loire_42 :[0m
+
+  * Circonscription n°1 : (Participation: 66.32%)
+[31m     -> Candidat en tête : Pierrick COURBON - Nouveau Front populaire - 40.34%[0m
+  * Circonscription n°2 : (Participation: 63.53%)
+[31m     -> Candidat en tête : Andrée TAURINYA - Nouveau Front populaire - 43.09%[0m
+  * Circonscription n°3 : (Participation: 67.94%)
+[31m     -> Candidat en tête : Angelina LA MARCA - Rassemblement national - 40.89%[0m
+  * Circonscription n°4 : (Participation: 69.33%)
+[31m     -> Candidat en tête : Gerbert RAMBAUD - Rassemblement national - 40.8%[0m
+  * Circonscription n°5 : (Participation: 71.6%)
+[31m     -> Candidat en tête : Antoine VERMOREL-MARQUES - Les Républicains - 41.99%[0m
+  * Circonscription n°6 : (Participation: 71.73%)
+[31m     -> Candidat en tête : Grégoire GRANGER - Rassemblement national - 39.71%[0m
+
+[36mÉtude du département haute-loire_43 :[0m
+
+  * Circonscription n°1 : (Participation: 72.88%)
+[31m     -> Candidat en tête : Laurent WAUQUIEZ - Les Républicains - 36.8%[0m
+  * Circonscription n°2 : (Participation: 71.88%)
+[31m     -> Candidat en tête : Jean-Pierre VIGIER - Les Républicains - 38.69%[0m
+
+[36mÉtude du département loire-atlantique_44 :[0m
+
+  * Circonscription n°1 : (Participation: 72.63%)
+[31m     -> Candidat en tête : Karim BENBRAHIM - Nouveau Front populaire - 43.2%[0m
+  * Circonscription n°2 : (Participation: 73.81%)
+[32m     -> Candidat en tête : Andy KERBRAT - Nouveau Front populaire - 51.67%[0m
+  * Circonscription n°3 : (Participation: 69.08%)
+[31m     -> Candidat en tête : Ségolène AMIOT - Nouveau Front populaire - 44.55%[0m
+  * Circonscription n°4 : (Participation: 71.64%)
+[31m     -> Candidat en tête : Julie LAERNOES - Nouveau Front populaire - 46.83%[0m
+  * Circonscription n°5 : (Participation: 73.74%)
+[31m     -> Candidat en tête : Fabrice ROUSSEL - Nouveau Front populaire - 37.73%[0m
+  * Circonscription n°6 : (Participation: 69.48%)
+[31m     -> Candidat en tête : Jean-Claude RAUX - Nouveau Front populaire - 34.16%[0m
+  * Circonscription n°7 : (Participation: 71.93%)
+[31m     -> Candidat en tête : Sandrine JOSSO - Ensemble - 28.49%[0m
+  * Circonscription n°8 : (Participation: 66.32%)
+[31m     -> Candidat en tête : Matthias TAVEL - Nouveau Front populaire - 30.99%[0m
+  * Circonscription n°9 : (Participation: 71.32%)
+[31m     -> Candidat en tête : Jean-Michel BRARD - Divers droite - 32.63%[0m
+  * Circonscription n°10 : (Participation: 73.36%)
+[31m     -> Candidat en tête : Sophie ERRANTE - Ensemble - 30.57%[0m
+
+[36mÉtude du département loiret_45 :[0m
+
+  * Circonscription n°1 : (Participation: 69.17%)
+[31m     -> Candidat en tête : Stéphanie RIST - Ensemble - 31.6%[0m
+  * Circonscription n°2 : (Participation: 66.39%)
+[31m     -> Candidat en tête : Elodie BABIN - Rassemblement national - 32.91%[0m
+  * Circonscription n°3 : (Participation: 68.61%)
+[31m     -> Candidat en tête : Mathilde PARIS - Rassemblement national - 45.53%[0m
+  * Circonscription n°4 : (Participation: 64.83%)
+[31m     -> Candidat en tête : Thomas MÉNAGÉ - Rassemblement national - 49.65%[0m
+  * Circonscription n°5 : (Participation: 67.05%)
+[31m     -> Candidat en tête : Jean-Lin LACAPELLE - Rassemblement national - 43.37%[0m
+  * Circonscription n°6 : (Participation: 68.74%)
+[31m     -> Candidat en tête : Anthony ZELLER - Rassemblement national - 31.81%[0m
+
+[36mÉtude du département lot_46 :[0m
+
+  * Circonscription n°1 : (Participation: 73.48%)
+[31m     -> Candidat en tête : Aurélien PRADIÉ - Les Républicains - 42.25%[0m
+  * Circonscription n°2 : (Participation: 74.33%)
+[31m     -> Candidat en tête : Christophe PROENÇA - Nouveau Front populaire - 38.22%[0m
+
+[36mÉtude du département lot-et-garonne_47 :[0m
+
+  * Circonscription n°1 : (Participation: 70.79%)
+[31m     -> Candidat en tête : Sébastien DELBOSQ - Rassemblement national - 43.11%[0m
+  * Circonscription n°2 : (Participation: 69.33%)
+[31m     -> Candidat en tête : Hélène LAPORTE - Rassemblement national - 49.31%[0m
+  * Circonscription n°3 : (Participation: 69.94%)
+[31m     -> Candidat en tête : Annick COUSIN - Rassemblement national - 41.08%[0m
+
+[36mÉtude du département lozere_48 :[0m
+
+  * Circonscription n°1 : (Participation: 75.04%)
+[31m     -> Candidat en tête : Sophie PANTEL - Nouveau Front populaire - 35.18%[0m
+
+[36mÉtude du département maine-et-loire_49 :[0m
+
+  * Circonscription n°1 : (Participation: 70.0%)
+[31m     -> Candidat en tête : François GERNIGON - Ensemble - 34.83%[0m
+  * Circonscription n°2 : (Participation: 70.77%)
+[31m     -> Candidat en tête : Stella DUPONT - Ensemble - 33.1%[0m
+  * Circonscription n°3 : (Participation: 68.55%)
+[31m     -> Candidat en tête : Edouard BOURGEAULT - Rassemblement national - 37.84%[0m
+  * Circonscription n°4 : (Participation: 70.0%)
+[31m     -> Candidat en tête : Aurore LAHONDÈS - Rassemblement national - 34.9%[0m
+  * Circonscription n°5 : (Participation: 67.84%)
+[31m     -> Candidat en tête : Denis MASSEGLIA - Ensemble - 33.7%[0m
+  * Circonscription n°6 : (Participation: 70.01%)
+[31m     -> Candidat en tête : Nicole DUBRE CHIRAT - Ensemble - 35.28%[0m
+  * Circonscription n°7 : (Participation: 70.5%)
+[31m     -> Candidat en tête : Philippe BOLO - Ensemble - 33.86%[0m
+
+[36mÉtude du département manche_50 :[0m
+
+  * Circonscription n°1 : (Participation: 69.22%)
+[31m     -> Candidat en tête : Philippe GOSSELIN - Divers droite - 38.3%[0m
+  * Circonscription n°2 : (Participation: 70.53%)
+[31m     -> Candidat en tête : Bertrand SORRE - Ensemble - 39.91%[0m
+  * Circonscription n°3 : (Participation: 69.99%)
+[31m     -> Candidat en tête : Pierre GIRY - Rassemblement national - 33.89%[0m
+  * Circonscription n°4 : (Participation: 67.38%)
+[31m     -> Candidat en tête : Anna PIC - Nouveau Front populaire - 34.22%[0m
+
+[36mÉtude du département marne_51 :[0m
+
+  * Circonscription n°1 : (Participation: 64.43%)
+[31m     -> Candidat en tête : Adrien MEXIS - Divers droite - 37.3%[0m
+  * Circonscription n°2 : (Participation: 66.25%)
+[31m     -> Candidat en tête : Anne-Sophie FRIGOUT - Rassemblement national - 36.35%[0m
+  * Circonscription n°3 : (Participation: 65.97%)
+[31m     -> Candidat en tête : Maxime MICHELET - Rassemblement national - 43.83%[0m
+  * Circonscription n°4 : (Participation: 64.82%)
+[31m     -> Candidat en tête : Achille BISIAUX - Rassemblement national - 42.77%[0m
+  * Circonscription n°5 : (Participation: 68.74%)
+[31m     -> Candidat en tête : Thierry BESSON - Rassemblement national - 46.99%[0m
+
+[36mÉtude du département haute-marne_52 :[0m
+
+  * Circonscription n°1 : (Participation: 67.36%)
+[31m     -> Candidat en tête : Christophe BENTZ - Rassemblement national - 48.83%[0m
+  * Circonscription n°2 : (Participation: 64.48%)
+[32m     -> Candidat en tête : Laurence ROBERT-DEHAULT - Rassemblement national - 56.82%[0m
+
+[36mÉtude du département mayenne_53 :[0m
+
+  * Circonscription n°1 : (Participation: 68.47%)
+[31m     -> Candidat en tête : Guillaume GAROT - Nouveau Front populaire - 45.39%[0m
+  * Circonscription n°2 : (Participation: 68.92%)
+[31m     -> Candidat en tête : Géraldine BANNIER - Ensemble - 35.17%[0m
+  * Circonscription n°3 : (Participation: 67.7%)
+[31m     -> Candidat en tête : Yannick FAVENNEC - Horizons - 48.68%[0m
+
+[36mÉtude du département meurthe-et-moselle_54 :[0m
+
+  * Circonscription n°1 : (Participation: 67.1%)
+[31m     -> Candidat en tête : Estelle MERCIER - Nouveau Front populaire - 37.73%[0m
+  * Circonscription n°2 : (Participation: 67.56%)
+[31m     -> Candidat en tête : Stéphane HABLOT - Nouveau Front populaire - 39.91%[0m
+  * Circonscription n°3 : (Participation: 58.65%)
+[31m     -> Candidat en tête : Frédéric WEBER - Rassemblement national - 43.46%[0m
+  * Circonscription n°4 : (Participation: 67.21%)
+[31m     -> Candidat en tête : Dominique BILDE - Rassemblement national - 43.7%[0m
+  * Circonscription n°5 : (Participation: 67.6%)
+[31m     -> Candidat en tête : Dominique POTIER - Nouveau Front populaire - 43.47%[0m
+  * Circonscription n°6 : (Participation: 63.62%)
+[31m     -> Candidat en tête : Anthony BOULOGNE - Rassemblement national - 44.53%[0m
+
+[36mÉtude du département meuse_55 :[0m
+
+  * Circonscription n°1 : (Participation: 67.96%)
+[31m     -> Candidat en tête : Maxime AMBLARD - Rassemblement national - 47.95%[0m
+  * Circonscription n°2 : (Participation: 65.17%)
+[32m     -> Candidat en tête : Florence GOULET - Rassemblement national - 50.63%[0m
+
+[36mÉtude du département morbihan_56 :[0m
+
+  * Circonscription n°1 : (Participation: 74.61%)
+[31m     -> Candidat en tête : Anne LE HÉNANFF - Ensemble - 42.13%[0m
+  * Circonscription n°2 : (Participation: 74.69%)
+[31m     -> Candidat en tête : Jimmy PAHUN - Ensemble - 32.14%[0m
+  * Circonscription n°3 : (Participation: 71.84%)
+[31m     -> Candidat en tête : Antoine OLIVIERO - Rassemblement national - 35.85%[0m
+  * Circonscription n°4 : (Participation: 72.17%)
+[31m     -> Candidat en tête : Paul MOLAC - Régionaliste - 35.84%[0m
+  * Circonscription n°5 : (Participation: 70.01%)
+[31m     -> Candidat en tête : Damien GIRARD - Nouveau Front populaire - 35.56%[0m
+  * Circonscription n°6 : (Participation: 71.94%)
+[31m     -> Candidat en tête : Nathalie GUIHOT-VIEIRA - Rassemblement national - 34.69%[0m
+
+[36mÉtude du département moselle_57 :[0m
+
+  * Circonscription n°1 : (Participation: 62.33%)
+[31m     -> Candidat en tête : Grégoire LALOUX - Rassemblement national - 39.81%[0m
+  * Circonscription n°2 : (Participation: 65.7%)
+[31m     -> Candidat en tête : Marie-Claude VOINCON - Rassemblement national - 37.48%[0m
+  * Circonscription n°3 : (Participation: 64.88%)
+[31m     -> Candidat en tête : Victor CHOMARD - Rassemblement national - 35.32%[0m
+  * Circonscription n°4 : (Participation: 65.98%)
+[31m     -> Candidat en tête : Océane SIMON - Rassemblement national - 42.66%[0m
+  * Circonscription n°5 : (Participation: 62.58%)
+[31m     -> Candidat en tête : Pascal JENFT - Rassemblement national - 47.52%[0m
+  * Circonscription n°6 : (Participation: 56.34%)
+[32m     -> Candidat en tête : Kévin PFEFFER - Rassemblement national - 50.9%[0m
+  * Circonscription n°7 : (Participation: 61.8%)
+[32m     -> Candidat en tête : Alexandre LOUBET - Rassemblement national - 53.33%[0m
+  * Circonscription n°8 : (Participation: 57.27%)
+[31m     -> Candidat en tête : Laurent JACOBELLI - Rassemblement national - 46.36%[0m
+  * Circonscription n°9 : (Participation: 65.25%)
+[31m     -> Candidat en tête : Baptiste PHILIPPO - Rassemblement national - 38.29%[0m
+
+[36mÉtude du département nievre_58 :[0m
+
+  * Circonscription n°1 : (Participation: 64.84%)
+[31m     -> Candidat en tête : Charles-Henri GALLOIS - Rassemblement national - 40.81%[0m
+  * Circonscription n°2 : (Participation: 68.87%)
+[31m     -> Candidat en tête : Julien GUIBERT - Rassemblement national - 44.82%[0m
+
+[36mÉtude du département nord_59 :[0m
+
+  * Circonscription n°1 : (Participation: 66.39%)
+[31m     -> Candidat en tête : Aurélien LE COQ - Nouveau Front populaire - 44.2%[0m
+  * Circonscription n°2 : (Participation: 65.52%)
+[31m     -> Candidat en tête : Ugo BERNALICIS - Nouveau Front populaire - 47.31%[0m
+  * Circonscription n°3 : (Participation: 59.62%)
+[32m     -> Candidat en tête : Sandra DELANNOY - Rassemblement national - 50.83%[0m
+  * Circonscription n°4 : (Participation: 68.74%)
+[31m     -> Candidat en tête : Brigitte LISO - Ensemble - 31.31%[0m
+  * Circonscription n°5 : (Participation: 68.76%)
+[31m     -> Candidat en tête : Victor CATTEAU - Rassemblement national - 40.08%[0m
+  * Circonscription n°6 : (Participation: 73.02%)
+[31m     -> Candidat en tête : Charlotte PARMENTIER-LECOCQ - Ensemble - 38.1%[0m
+  * Circonscription n°7 : (Participation: 65.17%)
+[31m     -> Candidat en tête : Félicie GERARD - Horizons - 36.71%[0m
+  * Circonscription n°8 : (Participation: 53.64%)
+[31m     -> Candidat en tête : David GUIRAUD - Nouveau Front populaire - 48.5%[0m
+  * Circonscription n°9 : (Participation: 66.91%)
+[31m     -> Candidat en tête : Violette SPILLEBOUT - Ensemble - 34.01%[0m
+  * Circonscription n°10 : (Participation: 59.73%)
+[31m     -> Candidat en tête : Gérald DARMANIN - Ensemble - 36.03%[0m
+  * Circonscription n°11 : (Participation: 65.26%)
+[31m     -> Candidat en tête : Roger VICOT - Nouveau Front populaire - 38.49%[0m
+  * Circonscription n°12 : (Participation: 63.86%)
+[32m     -> Candidat en tête : Michael TAVERNE - Rassemblement national - 54.72%[0m
+  * Circonscription n°13 : (Participation: 59.67%)
+[31m     -> Candidat en tête : Maxence ACCART - Rassemblement national - 43.52%[0m
+  * Circonscription n°14 : (Participation: 67.34%)
+[31m     -> Candidat en tête : Jean-Baptiste GARDES - Rassemblement national - 46.36%[0m
+  * Circonscription n°15 : (Participation: 68.54%)
+[31m     -> Candidat en tête : Pierrick BERTELOOT - Rassemblement national - 45.97%[0m
+  * Circonscription n°16 : (Participation: 61.39%)
+[32m     -> Candidat en tête : Matthieu MARCHIO - Rassemblement national - 53.12%[0m
+  * Circonscription n°17 : (Participation: 63.25%)
+[31m     -> Candidat en tête : Thierry TESSON - Rassemblement national - 47.92%[0m
+  * Circonscription n°18 : (Participation: 63.21%)
+[32m     -> Candidat en tête : Alexandre DUFOSSET - Rassemblement national - 52.51%[0m
+  * Circonscription n°19 : (Participation: 60.27%)
+[32m     -> Candidat en tête : Sébastien CHENU - Rassemblement national - 58.35%[0m
+  * Circonscription n°20 : (Participation: 59.02%)
+[32m     -> Candidat en tête : Guillaume FLORQUIN - Rassemblement national - 50.3%[0m
+  * Circonscription n°21 : (Participation: 61.81%)
+[31m     -> Candidat en tête : Laurence BARA - Rassemblement national - 43.53%[0m
+
+[36mÉtude du département oise_60 :[0m
+
+  * Circonscription n°1 : (Participation: 65.41%)
+[31m     -> Candidat en tête : Claire MARAIS-BEUIL - Rassemblement national - 46.19%[0m
+  * Circonscription n°2 : (Participation: 66.99%)
+[32m     -> Candidat en tête : Philippe BALLARD - Rassemblement national - 53.2%[0m
+  * Circonscription n°3 : (Participation: 62.36%)
+[31m     -> Candidat en tête : Alexandre SABATOU - Rassemblement national - 43.1%[0m
+  * Circonscription n°4 : (Participation: 67.65%)
+[31m     -> Candidat en tête : Mathieu GRIMPRET - Rassemblement national - 40.23%[0m
+  * Circonscription n°5 : (Participation: 66.01%)
+[31m     -> Candidat en tête : Frédéric Pierre VOS - Rassemblement national - 42.15%[0m
+  * Circonscription n°6 : (Participation: 66.21%)
+[31m     -> Candidat en tête : Michel GUINIOT - Rassemblement national - 47.87%[0m
+  * Circonscription n°7 : (Participation: 64.77%)
+[31m     -> Candidat en tête : David MAGNIER - Rassemblement national - 40.43%[0m
+
+[36mÉtude du département orne_61 :[0m
+
+  * Circonscription n°1 : (Participation: 67.79%)
+[31m     -> Candidat en tête : Nadine BELZIDSKY - Rassemblement national - 35.18%[0m
+  * Circonscription n°2 : (Participation: 68.98%)
+[31m     -> Candidat en tête : Gérard VIENNE - Rassemblement national - 40.01%[0m
+  * Circonscription n°3 : (Participation: 68.65%)
+[31m     -> Candidat en tête : Jérôme NURY - Divers droite - 43.67%[0m
+
+[36mÉtude du département pas-de-calais_62 :[0m
+
+  * Circonscription n°1 : (Participation: 70.0%)
+[32m     -> Candidat en tête : Emmanuel BLAIRY - Rassemblement national - 54.08%[0m
+  * Circonscription n°2 : (Participation: 68.93%)
+[31m     -> Candidat en tête : Alban HEUSÈLE - Rassemblement national - 37.31%[0m
+  * Circonscription n°3 : (Participation: 59.42%)
+[32m     -> Candidat en tête : Bruno CLAVET - Rassemblement national - 52.4%[0m
+  * Circonscription n°4 : (Participation: 68.13%)
+[31m     -> Candidat en tête : Benoît DOLLE - Rassemblement national - 42.34%[0m
+  * Circonscription n°5 : (Participation: 62.46%)
+[31m     -> Candidat en tête : Antoine GOLLIOT - Rassemblement national - 43.15%[0m
+  * Circonscription n°6 : (Participation: 69.75%)
+[32m     -> Candidat en tête : Christine ENGRAND - Rassemblement national - 50.7%[0m
+  * Circonscription n°7 : (Participation: 60.86%)
+[31m     -> Candidat en tête : Marc DE FLEURIAN - Rassemblement national - 47.86%[0m
+  * Circonscription n°8 : (Participation: 64.99%)
+[31m     -> Candidat en tête : Auguste EVRARD - Rassemblement national - 46.45%[0m
+  * Circonscription n°9 : (Participation: 66.96%)
+[31m     -> Candidat en tête : Caroline PARMENTIER - Rassemblement national - 48.85%[0m
+  * Circonscription n°10 : (Participation: 62.16%)
+[32m     -> Candidat en tête : Thierry FRAPPÉ - Rassemblement national - 60.61%[0m
+  * Circonscription n°11 : (Participation: 61.74%)
+[32m     -> Candidat en tête : Marine LE PEN - Rassemblement national - 58.04%[0m
+  * Circonscription n°12 : (Participation: 61.41%)
+[32m     -> Candidat en tête : Bruno BILDE - Rassemblement national - 59.24%[0m
+
+[36mÉtude du département puy-de-dome_63 :[0m
+
+  * Circonscription n°1 : (Participation: 66.93%)
+[31m     -> Candidat en tête : Marianne MAXIMI - Nouveau Front populaire - 38.14%[0m
+  * Circonscription n°2 : (Participation: 72.91%)
+[31m     -> Candidat en tête : Christine PIRÈS BEAUNE - Nouveau Front populaire - 36.2%[0m
+  * Circonscription n°3 : (Participation: 73.46%)
+[31m     -> Candidat en tête : Nicolas BONNET - Nouveau Front populaire - 31.72%[0m
+  * Circonscription n°4 : (Participation: 71.39%)
+[31m     -> Candidat en tête : Benjamin CHALUS - Rassemblement national - 31.63%[0m
+  * Circonscription n°5 : (Participation: 70.37%)
+[31m     -> Candidat en tête : André CHASSAIGNE - Nouveau Front populaire - 37.77%[0m
+
+[36mÉtude du département pyrenees-atlantiques_64 :[0m
+
+  * Circonscription n°1 : (Participation: 71.14%)
+[31m     -> Candidat en tête : François VERRIERE - Rassemblement national - 27.96%[0m
+  * Circonscription n°2 : (Participation: 73.64%)
+[31m     -> Candidat en tête : Monique BECKER - Rassemblement national - 31.14%[0m
+  * Circonscription n°3 : (Participation: 72.15%)
+[31m     -> Candidat en tête : David HABIB - Divers gauche - 37.63%[0m
+  * Circonscription n°4 : (Participation: 73.21%)
+[31m     -> Candidat en tête : Iñaki ECHANIZ - Nouveau Front populaire - 38.01%[0m
+  * Circonscription n°5 : (Participation: 70.86%)
+[31m     -> Candidat en tête : Colette CAPDEVIELLE - Nouveau Front populaire - 32.3%[0m
+  * Circonscription n°6 : (Participation: 70.84%)
+[31m     -> Candidat en tête : Peio DUFAU - Nouveau Front populaire - 29.43%[0m
+
+[36mÉtude du département hautes-pyrenees_65 :[0m
+
+  * Circonscription n°1 : (Participation: 70.42%)
+[31m     -> Candidat en tête : Marie-Christine SORIN - Rassemblement national - 34.09%[0m
+  * Circonscription n°2 : (Participation: 70.96%)
+[31m     -> Candidat en tête : Olivier MONTEIL - Rassemblement national - 36.96%[0m
+
+[36mÉtude du département pyrenees-orientales_66 :[0m
+
+  * Circonscription n°1 : (Participation: 66.29%)
+[31m     -> Candidat en tête : Sophie BLANC - Rassemblement national - 45.24%[0m
+  * Circonscription n°2 : (Participation: 67.68%)
+[32m     -> Candidat en tête : Anaïs SABATINI - Rassemblement national - 54.98%[0m
+  * Circonscription n°3 : (Participation: 67.48%)
+[31m     -> Candidat en tête : Sandrine DOGOR-SUCH - Rassemblement national - 45.57%[0m
+  * Circonscription n°4 : (Participation: 69.44%)
+[31m     -> Candidat en tête : Michèle MARTINEZ - Rassemblement national - 47.9%[0m
+
+[36mÉtude du département bas-rhin_67 :[0m
+
+  * Circonscription n°1 : (Participation: 70.04%)
+[31m     -> Candidat en tête : Sandra REGOL - Nouveau Front populaire - 47.6%[0m
+  * Circonscription n°2 : (Participation: 68.13%)
+[31m     -> Candidat en tête : Emmanuel FERNANDES - Nouveau Front populaire - 43.91%[0m
+  * Circonscription n°3 : (Participation: 65.5%)
+[31m     -> Candidat en tête : Thierry SOTHER - Nouveau Front populaire - 37.94%[0m
+  * Circonscription n°4 : (Participation: 70.26%)
+[31m     -> Candidat en tête : Delphine DAUBENBERGER - Rassemblement national - 33.11%[0m
+  * Circonscription n°5 : (Participation: 67.5%)
+[31m     -> Candidat en tête : Thomas ESTEVE - Rassemblement national - 39.2%[0m
+  * Circonscription n°6 : (Participation: 68.15%)
+[31m     -> Candidat en tête : Vincent COUSSEDIERE - Rassemblement national - 38.5%[0m
+  * Circonscription n°7 : (Participation: 65.95%)
+[31m     -> Candidat en tête : Denis KIEFFER - Rassemblement national - 41.47%[0m
+  * Circonscription n°8 : (Participation: 64.29%)
+[31m     -> Candidat en tête : Théo BERNHARDT - Rassemblement national - 44.16%[0m
+  * Circonscription n°9 : (Participation: 65.92%)
+[31m     -> Candidat en tête : Marc WOLFF - Rassemblement national - 40.47%[0m
+
+[36mÉtude du département haut-rhin_68 :[0m
+
+  * Circonscription n°1 : (Participation: 63.57%)
+[31m     -> Candidat en tête : Laurent GNAEDIG - Rassemblement national - 34.24%[0m
+  * Circonscription n°2 : (Participation: 67.52%)
+[31m     -> Candidat en tête : Nathalie AUBERT - Rassemblement national - 36.17%[0m
+  * Circonscription n°3 : (Participation: 65.64%)
+[31m     -> Candidat en tête : Christian ZIMMERMANN - Rassemblement national - 38.86%[0m
+  * Circonscription n°4 : (Participation: 66.2%)
+[31m     -> Candidat en tête : Marion WILHELM - Rassemblement national - 41.87%[0m
+  * Circonscription n°5 : (Participation: 64.28%)
+[31m     -> Candidat en tête : Olivier BECHT - Ensemble - 37.23%[0m
+  * Circonscription n°6 : (Participation: 63.89%)
+[31m     -> Candidat en tête : Christelle RITZ - Rassemblement national - 39.74%[0m
+
+[36mÉtude du département rhone_69 :[0m
+
+  * Circonscription n°1 : (Participation: 74.12%)
+[31m     -> Candidat en tête : Anaïs BELOUASSA-CHERIFI - Nouveau Front populaire - 42.4%[0m
+  * Circonscription n°2 : (Participation: 77.95%)
+[31m     -> Candidat en tête : Boris TAVERNIER - Nouveau Front populaire - 49.65%[0m
+  * Circonscription n°3 : (Participation: 76.87%)
+[32m     -> Candidat en tête : Marie-Charlotte GARIN - Nouveau Front populaire - 51.51%[0m
+  * Circonscription n°4 : (Participation: 77.42%)
+[31m     -> Candidat en tête : Sandrine RUNEL - Nouveau Front populaire - 38.0%[0m
+  * Circonscription n°5 : (Participation: 75.3%)
+[31m     -> Candidat en tête : Blandine BROCARD - Ensemble - 32.23%[0m
+  * Circonscription n°7 : (Participation: 61.14%)
+[31m     -> Candidat en tête : Abdelkader LAHMAR - Nouveau Front populaire - 46.0%[0m
+  * Circonscription n°8 : (Participation: 74.16%)
+[31m     -> Candidat en tête : Jonathan GERY - Rassemblement national - 33.46%[0m
+  * Circonscription n°9 : (Participation: 71.68%)
+[31m     -> Candidat en tête : Patrick LOUIS - Rassemblement national - 35.41%[0m
+  * Circonscription n°10 : (Participation: 75.65%)
+[31m     -> Candidat en tête : Thomas GASSILLOUD - Ensemble - 32.54%[0m
+  * Circonscription n°11 : (Participation: 71.86%)
+[31m     -> Candidat en tête : Alexandre HUMBERT DUPALAIS - Rassemblement national - 36.81%[0m
+  * Circonscription n°12 : (Participation: 73.66%)
+[31m     -> Candidat en tête : Lucie GAILLOT DURAND - Nouveau Front populaire - 30.02%[0m
+  * Circonscription n°13 : (Participation: 69.82%)
+[31m     -> Candidat en tête : Tiffany JONCOUR - Rassemblement national - 36.35%[0m
+  * Circonscription n°14 : (Participation: 59.8%)
+[31m     -> Candidat en tête : Idir BOUMERTIT - Nouveau Front populaire - 48.78%[0m
+
+[36mÉtude du département haute-saone_70 :[0m
+
+  * Circonscription n°1 : (Participation: 70.75%)
+[31m     -> Candidat en tête : Antoine VILLEDIEU - Rassemblement national - 48.82%[0m
+  * Circonscription n°2 : (Participation: 70.24%)
+[32m     -> Candidat en tête : Emeric SALMON - Rassemblement national - 50.11%[0m
+
+[36mÉtude du département saone-et-loire_71 :[0m
+
+  * Circonscription n°1 : (Participation: 69.33%)
+[31m     -> Candidat en tête : Rachel DREVET - Rassemblement national - 34.65%[0m
+  * Circonscription n°2 : (Participation: 69.92%)
+[31m     -> Candidat en tête : Olivier DAMIEN - Rassemblement national - 37.85%[0m
+  * Circonscription n°3 : (Participation: 69.43%)
+[31m     -> Candidat en tête : Aurélien DUTREMBLE - Rassemblement national - 42.67%[0m
+  * Circonscription n°4 : (Participation: 68.54%)
+[31m     -> Candidat en tête : Eric MICHOUX - Rassemblement national - 44.34%[0m
+  * Circonscription n°5 : (Participation: 67.38%)
+[31m     -> Candidat en tête : Arnaud SANVERT - Rassemblement national - 35.12%[0m
+
+[36mÉtude du département sarthe_72 :[0m
+
+  * Circonscription n°1 : (Participation: 68.64%)
+[31m     -> Candidat en tête : Céline DE COSSÉ BRISSAC - Rassemblement national - 33.6%[0m
+  * Circonscription n°2 : (Participation: 64.04%)
+[31m     -> Candidat en tête : Marietta KARAMANLI - Nouveau Front populaire - 39.95%[0m
+  * Circonscription n°3 : (Participation: 66.98%)
+[31m     -> Candidat en tête : Romain LEMOIGNE - Rassemblement national - 42.55%[0m
+  * Circonscription n°4 : (Participation: 66.48%)
+[31m     -> Candidat en tête : Marie-Caroline LE PEN - Rassemblement national - 39.26%[0m
+  * Circonscription n°5 : (Participation: 67.15%)
+[31m     -> Candidat en tête : Pierre VAUGARNY - Rassemblement national - 38.23%[0m
+
+[36mÉtude du département savoie_73 :[0m
+
+  * Circonscription n°1 : (Participation: 72.32%)
+[31m     -> Candidat en tête : Typhanie DEGOIS - Rassemblement national - 36.16%[0m
+  * Circonscription n°2 : (Participation: 68.23%)
+[31m     -> Candidat en tête : Vincent ROLLAND - Les Républicains - 36.84%[0m
+  * Circonscription n°3 : (Participation: 72.47%)
+[31m     -> Candidat en tête : Emilie BONNIVARD - Les Républicains - 40.86%[0m
+  * Circonscription n°4 : (Participation: 71.12%)
+[31m     -> Candidat en tête : Jean-François COULOMME - Nouveau Front populaire - 36.87%[0m
+
+[36mÉtude du département haute-savoie_74 :[0m
+
+  * Circonscription n°1 : (Participation: 73.09%)
+[31m     -> Candidat en tête : Véronique RIOTTON - Ensemble - 35.64%[0m
+  * Circonscription n°2 : (Participation: 71.84%)
+[31m     -> Candidat en tête : Antoine ARMAND - Ensemble - 33.27%[0m
+  * Circonscription n°3 : (Participation: 69.4%)
+[31m     -> Candidat en tête : Antoine VALENTIN - Rassemblement national - 39.68%[0m
+  * Circonscription n°4 : (Participation: 62.54%)
+[31m     -> Candidat en tête : Virginie DUBY-MULLER - Les Républicains - 37.25%[0m
+  * Circonscription n°5 : (Participation: 67.09%)
+[31m     -> Candidat en tête : Quentin TAÏEB - Rassemblement national - 32.1%[0m
+  * Circonscription n°6 : (Participation: 67.46%)
+[31m     -> Candidat en tête : Charles PRATS - Rassemblement national - 36.21%[0m
+
+[36mÉtude du département paris_75 :[0m
+
+  * Circonscription n°1 : (Participation: 75.22%)
+[31m     -> Candidat en tête : Sylvain MAILLARD - Ensemble - 44.7%[0m
+  * Circonscription n°2 : (Participation: 76.31%)
+[31m     -> Candidat en tête : Marine ROSSET - Nouveau Front populaire - 33.4%[0m
+  * Circonscription n°3 : (Participation: 73.33%)
+[31m     -> Candidat en tête : Léa BALAGE EL MARIKY - Nouveau Front populaire - 46.14%[0m
+  * Circonscription n°4 : (Participation: 72.91%)
+[31m     -> Candidat en tête : Astrid PANOSYAN-BOUVET - Ensemble - 37.19%[0m
+  * Circonscription n°5 : (Participation: 75.35%)
+[32m     -> Candidat en tête : Pouria AMIRSHAHI - Nouveau Front populaire - 54.27%[0m
+  * Circonscription n°6 : (Participation: 73.85%)
+[32m     -> Candidat en tête : Sophia CHIKIROU - Nouveau Front populaire - 58.19%[0m
+  * Circonscription n°7 : (Participation: 76.53%)
+[32m     -> Candidat en tête : Emmanuel GREGOIRE - Nouveau Front populaire - 50.87%[0m
+  * Circonscription n°8 : (Participation: 72.53%)
+[32m     -> Candidat en tête : Eva SAS - Nouveau Front populaire - 50.72%[0m
+  * Circonscription n°9 : (Participation: 71.14%)
+[32m     -> Candidat en tête : Sandrine ROUSSEAU - Nouveau Front populaire - 52.13%[0m
+  * Circonscription n°10 : (Participation: 71.7%)
+[32m     -> Candidat en tête : Rodrigo ARENAS - Nouveau Front populaire - 50.66%[0m
+  * Circonscription n°11 : (Participation: 76.82%)
+[31m     -> Candidat en tête : Céline HERVIEU - Nouveau Front populaire - 43.7%[0m
+  * Circonscription n°12 : (Participation: 75.3%)
+[31m     -> Candidat en tête : Olivia GREGOIRE - Ensemble - 39.36%[0m
+  * Circonscription n°13 : (Participation: 72.79%)
+[31m     -> Candidat en tête : David AMIEL - Ensemble - 38.85%[0m
+  * Circonscription n°14 : (Participation: 73.03%)
+[31m     -> Candidat en tête : Benjamin HADDAD - Ensemble - 47.96%[0m
+  * Circonscription n°15 : (Participation: 70.56%)
+[31m     -> Candidat en tête : Danielle SIMONNET - Divers gauche - 41.94%[0m
+  * Circonscription n°16 : (Participation: 69.01%)
+[32m     -> Candidat en tête : Sarah LEGRAIN - Nouveau Front populaire - 62.35%[0m
+  * Circonscription n°17 : (Participation: 66.27%)
+[32m     -> Candidat en tête : Danièle OBONO - Nouveau Front populaire - 64.35%[0m
+  * Circonscription n°18 : (Participation: 75.09%)
+[32m     -> Candidat en tête : Aymeric CARON - Nouveau Front populaire - 50.51%[0m
+
+[36mÉtude du département seine-maritime_76 :[0m
+
+  * Circonscription n°1 : (Participation: 68.9%)
+[31m     -> Candidat en tête : Florence HEROUIN-LÉAUTEY - Nouveau Front populaire - 44.44%[0m
+  * Circonscription n°2 : (Participation: 73.25%)
+[31m     -> Candidat en tête : Vanessa LANCELOT - Rassemblement national - 33.77%[0m
+  * Circonscription n°3 : (Participation: 62.66%)
+[31m     -> Candidat en tête : Edouard BÉNARD - Nouveau Front populaire - 48.64%[0m
+  * Circonscription n°4 : (Participation: 63.34%)
+[31m     -> Candidat en tête : Guillaume PENNELLE - Rassemblement national - 39.08%[0m
+  * Circonscription n°5 : (Participation: 68.84%)
+[31m     -> Candidat en tête : Jean-Cyril MONTIER - Rassemblement national - 41.39%[0m
+  * Circonscription n°6 : (Participation: 67.47%)
+[31m     -> Candidat en tête : Patrice MARTIN - Rassemblement national - 44.9%[0m
+  * Circonscription n°7 : (Participation: 68.03%)
+[31m     -> Candidat en tête : Agnès FIRMIN LE BODO - Horizons - 34.83%[0m
+  * Circonscription n°8 : (Participation: 60.25%)
+[31m     -> Candidat en tête : Jean-Paul LECOQ - Nouveau Front populaire - 42.82%[0m
+  * Circonscription n°9 : (Participation: 69.12%)
+[31m     -> Candidat en tête : Douglas POTIER - Rassemblement national - 44.58%[0m
+  * Circonscription n°10 : (Participation: 70.63%)
+[31m     -> Candidat en tête : Robert LE BOURGEOIS - Rassemblement national - 45.29%[0m
+
+[36mÉtude du département seine-et-marne_77 :[0m
+
+  * Circonscription n°1 : (Participation: 63.89%)
+[31m     -> Candidat en tête : Arnaud SAINT-MARTIN - Nouveau Front populaire - 33.31%[0m
+  * Circonscription n°2 : (Participation: 68.39%)
+[31m     -> Candidat en tête : Ivanka DIMITROVA - Rassemblement national - 35.06%[0m
+  * Circonscription n°3 : (Participation: 66.09%)
+[31m     -> Candidat en tête : Davy BRUN - Rassemblement national - 38.13%[0m
+  * Circonscription n°4 : (Participation: 66.43%)
+[31m     -> Candidat en tête : Julien LIMONGI - Rassemblement national - 47.64%[0m
+  * Circonscription n°5 : (Participation: 65.26%)
+[31m     -> Candidat en tête : Philippe FONTANA - Rassemblement national - 41.77%[0m
+  * Circonscription n°6 : (Participation: 63.82%)
+[31m     -> Candidat en tête : Béatrice ROULLAUD - Rassemblement national - 40.81%[0m
+  * Circonscription n°7 : (Participation: 64.97%)
+[31m     -> Candidat en tête : Agnès LAFFITE - Rassemblement national - 35.72%[0m
+  * Circonscription n°8 : (Participation: 65.68%)
+[31m     -> Candidat en tête : Arnaud BONNET - Nouveau Front populaire - 36.29%[0m
+  * Circonscription n°9 : (Participation: 64.8%)
+[31m     -> Candidat en tête : Morgann VANACKER - Rassemblement national - 35.52%[0m
+  * Circonscription n°10 : (Participation: 63.2%)
+[31m     -> Candidat en tête : Maxime LAISNEY - Nouveau Front populaire - 43.94%[0m
+  * Circonscription n°11 : (Participation: 63.02%)
+[32m     -> Candidat en tête : Olivier FAURE - Nouveau Front populaire - 53.42%[0m
+
+[36mÉtude du département yvelines_78 :[0m
+
+  * Circonscription n°1 : (Participation: 72.78%)
+[31m     -> Candidat en tête : Charles RODWELL - Ensemble - 33.55%[0m
+  * Circonscription n°2 : (Participation: 75.01%)
+[31m     -> Candidat en tête : Jean-Noël BARROT - Ensemble - 35.01%[0m
+  * Circonscription n°3 : (Participation: 73.1%)
+[31m     -> Candidat en tête : Béatrice PIRON - Ensemble - 34.49%[0m
+  * Circonscription n°4 : (Participation: 73.13%)
+[31m     -> Candidat en tête : Marie LEBEC - Ensemble - 41.24%[0m
+  * Circonscription n°5 : (Participation: 71.17%)
+[31m     -> Candidat en tête : Yaël BRAUN-PIVET - Ensemble - 42.8%[0m
+  * Circonscription n°6 : (Participation: 69.5%)
+[31m     -> Candidat en tête : Natalia POUZYREFF - Ensemble - 38.34%[0m
+  * Circonscription n°7 : (Participation: 67.89%)
+[31m     -> Candidat en tête : Aurélien ROUSSEAU - Nouveau Front populaire - 34.68%[0m
+  * Circonscription n°8 : (Participation: 61.91%)
+[31m     -> Candidat en tête : Benjamin LUCAS - Nouveau Front populaire - 44.92%[0m
+  * Circonscription n°9 : (Participation: 67.9%)
+[31m     -> Candidat en tête : Laurent MORIN - Rassemblement national - 34.48%[0m
+  * Circonscription n°10 : (Participation: 73.3%)
+[31m     -> Candidat en tête : Aurore BERGÉ - Ensemble - 33.59%[0m
+  * Circonscription n°11 : (Participation: 68.14%)
+[31m     -> Candidat en tête : William MARTINET - Nouveau Front populaire - 43.38%[0m
+  * Circonscription n°12 : (Participation: 71.42%)
+[31m     -> Candidat en tête : Karl OLIVE - Ensemble - 40.75%[0m
+
+[36mÉtude du département deux-sevres_79 :[0m
+
+  * Circonscription n°1 : (Participation: 70.55%)
+[31m     -> Candidat en tête : Bastien MARCHIVE - Divers centre - 40.23%[0m
+  * Circonscription n°2 : (Participation: 69.62%)
+[31m     -> Candidat en tête : Delphine BATHO - Ecologiste - 38.57%[0m
+  * Circonscription n°3 : (Participation: 67.91%)
+[31m     -> Candidat en tête : Philippe ROBIN - Rassemblement national - 35.27%[0m
+
+[36mÉtude du département somme_80 :[0m
+
+  * Circonscription n°1 : (Participation: 64.99%)
+[31m     -> Candidat en tête : Nathalie RIBEIRO BILLET - Rassemblement national - 40.69%[0m
+  * Circonscription n°2 : (Participation: 67.96%)
+[31m     -> Candidat en tête : Zahia HAMDANE - Nouveau Front populaire - 29.54%[0m
+  * Circonscription n°3 : (Participation: 70.05%)
+[31m     -> Candidat en tête : Matthias RENAULT - Rassemblement national - 48.9%[0m
+  * Circonscription n°4 : (Participation: 69.56%)
+[31m     -> Candidat en tête : Jean-Philippe TANGUY - Rassemblement national - 49.62%[0m
+  * Circonscription n°5 : (Participation: 66.35%)
+[32m     -> Candidat en tête : Yaël MENACHE - Rassemblement national - 55.98%[0m
+
+[36mÉtude du département tarn_81 :[0m
+
+  * Circonscription n°1 : (Participation: 71.04%)
+[31m     -> Candidat en tête : Frédéric CABROLIER - Rassemblement national - 39.53%[0m
+  * Circonscription n°2 : (Participation: 71.67%)
+[31m     -> Candidat en tête : Julien BACOU - Rassemblement national - 37.94%[0m
+  * Circonscription n°3 : (Participation: 72.27%)
+[31m     -> Candidat en tête : Guilhem CARAYON - Rassemblement national - 43.51%[0m
+
+[36mÉtude du département tarn-et-garonne_82 :[0m
+
+  * Circonscription n°1 : (Participation: 70.77%)
+[31m     -> Candidat en tête : Brigitte BAREGES - Rassemblement national - 43.93%[0m
+  * Circonscription n°2 : (Participation: 70.59%)
+[31m     -> Candidat en tête : Marine HAMELET - Rassemblement national - 49.17%[0m
+
+[36mÉtude du département var_83 :[0m
+
+  * Circonscription n°1 : (Participation: 65.61%)
+[31m     -> Candidat en tête : Sébastien SOULÉ - Rassemblement national - 42.28%[0m
+  * Circonscription n°2 : (Participation: 66.39%)
+[32m     -> Candidat en tête : Laure LAVALETTE - Rassemblement national - 50.81%[0m
+  * Circonscription n°3 : (Participation: 68.75%)
+[31m     -> Candidat en tête : Stéphane RAMBAUD - Rassemblement national - 46.51%[0m
+  * Circonscription n°4 : (Participation: 65.21%)
+[32m     -> Candidat en tête : Philippe LOTTIAUX - Rassemblement national - 56.07%[0m
+  * Circonscription n°5 : (Participation: 66.74%)
+[32m     -> Candidat en tête : Julie LECHANTEUX - Rassemblement national - 51.51%[0m
+  * Circonscription n°6 : (Participation: 68.2%)
+[32m     -> Candidat en tête : Frank GILETTI - Rassemblement national - 53.51%[0m
+  * Circonscription n°7 : (Participation: 66.58%)
+[31m     -> Candidat en tête : Frédéric BOCCALETTI - Rassemblement national - 48.3%[0m
+  * Circonscription n°8 : (Participation: 67.14%)
+[32m     -> Candidat en tête : Philippe SCHRECK - Rassemblement national - 53.55%[0m
+
+[36mÉtude du département vaucluse_84 :[0m
+
+  * Circonscription n°1 : (Participation: 62.34%)
+[31m     -> Candidat en tête : Catherine JAOUEN - Rassemblement national - 34.62%[0m
+  * Circonscription n°2 : (Participation: 68.91%)
+[31m     -> Candidat en tête : Bénédicte AUZANOT - Rassemblement national - 45.95%[0m
+  * Circonscription n°3 : (Participation: 68.4%)
+[32m     -> Candidat en tête : Hervé DE LÉPINAU - Rassemblement national - 53.51%[0m
+  * Circonscription n°4 : (Participation: 68.88%)
+[31m     -> Candidat en tête : Marie-France LORHO - Rassemblement national - 49.89%[0m
+  * Circonscription n°5 : (Participation: 68.62%)
+[31m     -> Candidat en tête : Catherine RIMBERT - Rassemblement national - 45.03%[0m
+
+[36mÉtude du département vendee_85 :[0m
+
+  * Circonscription n°1 : (Participation: 69.57%)
+[31m     -> Candidat en tête : Simon-Pierre PAULIN - Rassemblement national - 32.17%[0m
+  * Circonscription n°2 : (Participation: 70.66%)
+[31m     -> Candidat en tête : Béatrice BELLAMY - Ensemble - 38.74%[0m
+  * Circonscription n°3 : (Participation: 70.93%)
+[31m     -> Candidat en tête : Pascal DUBIN - Rassemblement national - 35.59%[0m
+  * Circonscription n°4 : (Participation: 70.12%)
+[31m     -> Candidat en tête : Véronique BESSE - Divers droite - 39.31%[0m
+  * Circonscription n°5 : (Participation: 69.02%)
+[31m     -> Candidat en tête : Stéphane BUFFETAUT - Rassemblement national - 37.87%[0m
+
+[36mÉtude du département vienne_86 :[0m
+
+  * Circonscription n°1 : (Participation: 69.89%)
+[31m     -> Candidat en tête : Lisa BELLUCO - Nouveau Front populaire - 33.14%[0m
+  * Circonscription n°2 : (Participation: 72.54%)
+[31m     -> Candidat en tête : Sacha HOULIÉ - Ensemble - 33.21%[0m
+  * Circonscription n°3 : (Participation: 69.96%)
+[31m     -> Candidat en tête : Eric SOULAT - Rassemblement national - 40.82%[0m
+  * Circonscription n°4 : (Participation: 65.87%)
+[31m     -> Candidat en tête : Hager JACQUEMIN - Rassemblement national - 41.04%[0m
+
+[36mÉtude du département haute-vienne_87 :[0m
+
+  * Circonscription n°1 : (Participation: 71.41%)
+[31m     -> Candidat en tête : Damien MAUDET - Nouveau Front populaire - 36.94%[0m
+  * Circonscription n°2 : (Participation: 73.89%)
+[31m     -> Candidat en tête : Sabrina MINGUET - Rassemblement national - 36.86%[0m
+  * Circonscription n°3 : (Participation: 71.36%)
+[31m     -> Candidat en tête : Manon MEUNIER - Nouveau Front populaire - 35.18%[0m
+
+[36mÉtude du département vosges_88 :[0m
+
+  * Circonscription n°1 : (Participation: 66.79%)
+[31m     -> Candidat en tête : Stéphane VIRY - Divers droite - 42.85%[0m
+  * Circonscription n°2 : (Participation: 67.63%)
+[31m     -> Candidat en tête : Gaëtan DUSSAUSAYE - Rassemblement national - 48.16%[0m
+  * Circonscription n°3 : (Participation: 68.73%)
+[31m     -> Candidat en tête : Christophe NAEGELEN - Divers droite - 48.33%[0m
+  * Circonscription n°4 : (Participation: 69.0%)
+[31m     -> Candidat en tête : Sébastien HUMBERT - Rassemblement national - 48.02%[0m
+
+[36mÉtude du département yonne_89 :[0m
+
+  * Circonscription n°1 : (Participation: 69.35%)
+[31m     -> Candidat en tête : Daniel GRENON - Rassemblement national - 40.4%[0m
+  * Circonscription n°2 : (Participation: 67.59%)
+[31m     -> Candidat en tête : Sophie-Laurence ROY - Rassemblement national - 44.51%[0m
+  * Circonscription n°3 : (Participation: 65.21%)
+[32m     -> Candidat en tête : Julien ODOUL - Rassemblement national - 50.44%[0m
+
+[36mÉtude du département territoire-de-belfort_90 :[0m
+
+  * Circonscription n°1 : (Participation: 68.91%)
+[31m     -> Candidat en tête : Carine MANCK - Rassemblement national - 39.73%[0m
+  * Circonscription n°2 : (Participation: 69.37%)
+[31m     -> Candidat en tête : Guillaume BIGOT - Rassemblement national - 37.86%[0m
+
+[36mÉtude du département essonne_91 :[0m
+
+  * Circonscription n°2 : (Participation: 68.73%)
+[31m     -> Candidat en tête : Nathalie DA CONCEICAO CARVALHO - Rassemblement national - 42.06%[0m
+  * Circonscription n°3 : (Participation: 70.87%)
+[31m     -> Candidat en tête : Stefan MILOSEVIC - Rassemblement national - 34.7%[0m
+  * Circonscription n°4 : (Participation: 70.57%)
+[31m     -> Candidat en tête : Marie-Pierre RIXAIN - Ensemble - 33.91%[0m
+  * Circonscription n°5 : (Participation: 74.39%)
+[31m     -> Candidat en tête : Pierre LARROUTUROU - Nouveau Front populaire - 37.93%[0m
+  * Circonscription n°6 : (Participation: 69.59%)
+[31m     -> Candidat en tête : Jérôme GUEDJ - Nouveau Front populaire - 34.09%[0m
+  * Circonscription n°7 : (Participation: 64.77%)
+[31m     -> Candidat en tête : Claire LEJEUNE - Nouveau Front populaire - 38.1%[0m
+  * Circonscription n°9 : (Participation: 64.92%)
+[31m     -> Candidat en tête : Julie OZENNE - Nouveau Front populaire - 39.26%[0m
+
+[36mÉtude du département hauts-de-seine_92 :[0m
+
+  * Circonscription n°1 : (Participation: 61.2%)
+[32m     -> Candidat en tête : Elsa FAUCILLON - Nouveau Front populaire - 59.16%[0m
+  * Circonscription n°3 : (Participation: 73.09%)
+[32m     -> Candidat en tête : Philippe JUVIN - Les Républicains - 50.43%[0m
+  * Circonscription n°6 : (Participation: 72.46%)
+[31m     -> Candidat en tête : Sihame MUSCIANISI - Nouveau Front populaire - 31.25%[0m
+  * Circonscription n°7 : (Participation: 74.16%)
+[32m     -> Candidat en tête : Pierre CAZENEUVE - Ensemble - 53.2%[0m
+  * Circonscription n°8 : (Participation: 76.88%)
+[31m     -> Candidat en tête : Prisca THEVENOT - Ensemble - 43.42%[0m
+  * Circonscription n°9 : (Participation: 75.11%)
+[31m     -> Candidat en tête : Stéphane SÉJOURNÉ - Ensemble - 46.07%[0m
+  * Circonscription n°10 : (Participation: 72.82%)
+[31m     -> Candidat en tête : Gabriel ATTAL - Ensemble - 45.38%[0m
+  * Circonscription n°12 : (Participation: 72.88%)
+[31m     -> Candidat en tête : Lounes ADJROUD - Nouveau Front populaire - 38.9%[0m
+  * Circonscription n°13 : (Participation: 74.98%)
+[31m     -> Candidat en tête : Maud BREGEON - Ensemble - 39.18%[0m
+
+[36mÉtude du département seine-saint-denis_93 :[0m
+
+  * Circonscription n°4 : (Participation: 54.13%)
+[31m     -> Candidat en tête : Soumya BOUROUAHA - Nouveau Front populaire - 44.52%[0m
+  * Circonscription n°7 : (Participation: 66.32%)
+[31m     -> Candidat en tête : Alexis CORBIÈRE - Divers gauche - 40.19%[0m
+  * Circonscription n°8 : (Participation: 61.97%)
+[32m     -> Candidat en tête : Fatiha KELOUA HACHI - Nouveau Front populaire - 50.38%[0m
+  * Circonscription n°9 : (Participation: 65.7%)
+[32m     -> Candidat en tête : Aurélie TROUVÉ - Nouveau Front populaire - 62.83%[0m
+  * Circonscription n°11 : (Participation: 56.08%)
+[32m     -> Candidat en tête : Clémentine AUTAIN - Nouveau Front populaire - 63.15%[0m
+  * Circonscription n°12 : (Participation: 60.63%)
+[31m     -> Candidat en tête : Jérôme LEGAVRE - Nouveau Front populaire - 44.84%[0m
+
+[36mÉtude du département val-de-marne_94 :[0m
+
+  * Circonscription n°1 : (Participation: 71.37%)
+[31m     -> Candidat en tête : Lyes LOUFFOK - Nouveau Front populaire - 31.71%[0m
+  * Circonscription n°2 : (Participation: 64.84%)
+[32m     -> Candidat en tête : Clémence GUETTÉ - Nouveau Front populaire - 55.68%[0m
+  * Circonscription n°3 : (Participation: 63.7%)
+[31m     -> Candidat en tête : Louis BOYARD - Nouveau Front populaire - 42.17%[0m
+  * Circonscription n°4 : (Participation: 68.39%)
+[31m     -> Candidat en tête : Adel AMARA - Nouveau Front populaire - 33.02%[0m
+  * Circonscription n°5 : (Participation: 67.82%)
+[31m     -> Candidat en tête : Mathieu LEFEVRE - Ensemble - 38.52%[0m
+  * Circonscription n°6 : (Participation: 73.99%)
+[31m     -> Candidat en tête : May BOUHADA - Nouveau Front populaire - 40.42%[0m
+  * Circonscription n°7 : (Participation: 65.76%)
+[31m     -> Candidat en tête : Rachel KEKE - Nouveau Front populaire - 43.65%[0m
+  * Circonscription n°8 : (Participation: 73.7%)
+[31m     -> Candidat en tête : Michel HERBILLON - Les Républicains - 44.13%[0m
+  * Circonscription n°9 : (Participation: 68.56%)
+[32m     -> Candidat en tête : Isabelle SANTIAGO - Nouveau Front populaire - 56.4%[0m
+  * Circonscription n°10 : (Participation: 68.13%)
+[32m     -> Candidat en tête : Mathilde PANOT - Nouveau Front populaire - 59.86%[0m
+  * Circonscription n°11 : (Participation: 65.74%)
+[32m     -> Candidat en tête : Sophie TAILLÉ-POLIAN - Nouveau Front populaire - 57.36%[0m
+
+[36mÉtude du département val-d-oise_95 :[0m
+
+  * Circonscription n°1 : (Participation: 68.41%)
+[31m     -> Candidat en tête : Anne SICARD - Rassemblement national - 33.65%[0m
+  * Circonscription n°2 : (Participation: 66.88%)
+[31m     -> Candidat en tête : Ayda HADIZADEH - Nouveau Front populaire - 33.47%[0m
+  * Circonscription n°3 : (Participation: 67.63%)
+[31m     -> Candidat en tête : Emmanuel MAUREL - Nouveau Front populaire - 35.63%[0m
+  * Circonscription n°4 : (Participation: 67.51%)
+[31m     -> Candidat en tête : Karine LACOUTURE - Nouveau Front populaire - 34.65%[0m
+  * Circonscription n°5 : (Participation: 60.1%)
+[32m     -> Candidat en tête : Paul VANNIER - Nouveau Front populaire - 56.01%[0m
+  * Circonscription n°6 : (Participation: 66.43%)
+[31m     -> Candidat en tête : Gabrielle CATHALA - Nouveau Front populaire - 37.63%[0m
+  * Circonscription n°7 : (Participation: 66.06%)
+[31m     -> Candidat en tête : Romain ESKENAZI - Nouveau Front populaire - 37.94%[0m
+  * Circonscription n°8 : (Participation: 55.94%)
+[32m     -> Candidat en tête : Carlos Martens BILONGO - Nouveau Front populaire - 58.27%[0m
+  * Circonscription n°9 : (Participation: 60.28%)
+[31m     -> Candidat en tête : Arnaud LE GALL - Nouveau Front populaire - 40.73%[0m
+  * Circonscription n°10 : (Participation: 65.27%)
+[31m     -> Candidat en tête : Aurélien TACHÉ - Nouveau Front populaire - 43.13%[0m
+
+[36mÉtude du département guadeloupe_971 :[0m
+
+  * Circonscription n°1 : (Participation: 32.55%)
+[33m     -> Candidat en tête : Olivier SERVA - Divers gauche - 51.4%[0m
+  * Circonscription n°2 : (Participation: 31.78%)
+[31m     -> Candidat en tête : Christian BAPTISTE - Divers gauche - 41.33%[0m
+  * Circonscription n°3 : (Participation: 36.07%)
+[31m     -> Candidat en tête : Max MATHIASIN - Divers gauche - 36.21%[0m
+  * Circonscription n°4 : (Participation: 33.81%)
+[33m     -> Candidat en tête : Elie CALIFER - Parti socialiste - 57.9%[0m
+
+[36mÉtude du département martinique_972 :[0m
+
+  * Circonscription n°1 : (Participation: 30.54%)
+[33m     -> Candidat en tête : Jiovanny WILLIAM - Régionaliste - 56.56%[0m
+  * Circonscription n°2 : (Participation: 33.0%)
+[31m     -> Candidat en tête : Marcellin NADEAU - Régionaliste - 48.31%[0m
+  * Circonscription n°3 : (Participation: 31.16%)
+[31m     -> Candidat en tête : Johnny HAJJAR - Divers gauche - 37.28%[0m
+  * Circonscription n°4 : (Participation: 30.15%)
+[33m     -> Candidat en tête : Jean-Philippe NILOR - Régionaliste - 63.18%[0m
+
+[36mÉtude du département guyane_973 :[0m
+
+  * Circonscription n°1 : (Participation: 35.61%)
+[33m     -> Candidat en tête : Jean-Victor CASTOR - Régionaliste - 62.78%[0m
+  * Circonscription n°2 : (Participation: 28.92%)
+[33m     -> Candidat en tête : Davy RIMANE - Régionaliste - 60.21%[0m
+
+[36mÉtude du département la-reunion_974 :[0m
+
+  * Circonscription n°1 : (Participation: 49.04%)
+[31m     -> Candidat en tête : Philippe NAILLET - Nouveau Front populaire - 46.25%[0m
+  * Circonscription n°2 : (Participation: 42.13%)
+[31m     -> Candidat en tête : Karine LEBON - Nouveau Front populaire - 47.72%[0m
+  * Circonscription n°3 : (Participation: 45.89%)
+[31m     -> Candidat en tête : Joseph RIVIERE - Rassemblement national - 31.56%[0m
+  * Circonscription n°4 : (Participation: 51.11%)
+[31m     -> Candidat en tête : Emeline KBIDI - Divers gauche - 42.28%[0m
+  * Circonscription n°5 : (Participation: 40.7%)
+[31m     -> Candidat en tête : Jean-Hugues RATENON - Divers gauche - 33.18%[0m
+  * Circonscription n°6 : (Participation: 44.98%)
+[31m     -> Candidat en tête : Frédéric MAILLOT - Divers gauche - 29.76%[0m
+  * Circonscription n°7 : (Participation: 44.46%)
+[31m     -> Candidat en tête : Perceval GAILLARD - Nouveau Front populaire - 29.55%[0m
+
+[36mÉtude du département mayotte_976 :[0m
+
+  * Circonscription n°1 : (Participation: 39.69%)
+[32m     -> Candidat en tête : Estelle YOUSSOUFFA - Divers droite - 79.48%[0m
+  * Circonscription n°2 : (Participation: 46.01%)
+[31m     -> Candidat en tête : Anchya BAMANA - Rassemblement national - 35.42%[0m
+
+
+DÉPUTÉS EN TÊTE :
+
+1. Rassemblement national : 296 députés en tête
+2. Nouveau Front populaire : 138 députés en tête
+3. Ensemble : 55 députés en tête
+4. Divers droite : 14 députés en tête
+5. Les Républicains : 13 députés en tête
+6. Divers gauche : 12 députés en tête
+7. Régionaliste : 7 députés en tête
+8. Horizons : 3 députés en tête
+9. Divers centre : 1 députés en tête
+10. Ecologiste : 1 députés en tête
+11. Extrême droite : 1 députés en tête
+12. Parti socialiste : 1 députés en tête
+
+DÉPUTÉS ÉLUS :
+
+1. Rassemblement national : 38 députés élus
+2. Nouveau Front populaire : 28 députés élus
+3. Divers droite : 1 députés élus
+4. Ensemble : 1 députés élus
+5. Extrême droite : 1 députés élus
+6. Les Républicains : 1 députés élus

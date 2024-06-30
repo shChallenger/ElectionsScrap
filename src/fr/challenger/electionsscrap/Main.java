@@ -1,6 +1,8 @@
 package fr.challenger.electionsscrap;
 
+import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
@@ -174,19 +176,41 @@ public class Main {
 	private static String downloadPage(final String page)
 	{
 		final HttpURLConnection connection = getConnection(page);
-		final String content;
 		
 		if (connection == null) return null;
 		
+		final BufferedReader reader;
+		
 		try {
-			content = (connection.getResponseCode() == RESPONSE_OK) ?
-						new String(connection.getInputStream().readAllBytes()) : null;
+			if (connection.getResponseCode() != RESPONSE_OK) return null;
+			
+			reader = new BufferedReader(
+					new InputStreamReader(connection.getInputStream(), "UTF-8"));
 		} catch (IOException e) {
 			e.printStackTrace();
 			return null;
 		}
 		
-		return content;
+		final StringBuilder builder = new StringBuilder();
+		String line;
+
+        try {
+			while ((line = reader.readLine()) != null)
+			{
+				builder.append(line);
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+			return null;
+		}
+        
+        try {
+			reader.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		return builder.toString();
 	}
 	
 	private static Pair<Map<String, Integer>, Map<String, Integer>> countElu(final String page)
@@ -198,11 +222,10 @@ public class Main {
 		if (downloadedPage == null) return Pair.of(firstPlace, elus);
 		
 		final String[] circons = downloadedPage.split(CIRCON_MOTIF);
-		String circon;
 		
 		for (int i = 3; i < circons.length; i++)
 		{
-			circon = circons[i];
+			final String circon = circons[i];
 			
 			final int participIndex = circon.indexOf(PARTICIP_MOTIF);
 			
@@ -223,16 +246,18 @@ public class Main {
 			
 			final Double votedPercent = (resultPercent * participPercent) / 100;
 			
+			final String parti = infosResult[1].split("-")[0];
+			
 			System.out.println((resultPercent < 50.0 ? RED : (votedPercent < 25.0 ? YELLOW : GREEN)) +
-					"     -> Candidat en tête : " + infosResult[0] + " - " + infosResult[1] 
+					"     -> Candidat en tête : " + infosResult[0] + " - " + parti
 							+ " - " + resultPercent + "%" + RESET);
 			
 			if (resultPercent >= 50.0 && votedPercent >= 25.0)
 			{
-				elus.put(infosResult[1], elus.getOrDefault(infosResult[1], 0) + 1);
+				elus.put(parti, elus.getOrDefault(parti, 0) + 1);
 			}
 			
-			firstPlace.put(infosResult[1], firstPlace.getOrDefault(infosResult[1], 0) + 1);
+			firstPlace.put(parti, firstPlace.getOrDefault(parti, 0) + 1);
 		}
 		
 		return Pair.of(firstPlace, elus);
