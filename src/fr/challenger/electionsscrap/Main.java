@@ -221,12 +221,17 @@ public class Main {
 			
 			final Double resultPercent = Double.valueOf(infosResult[2]);
 			
-			System.out.println((resultPercent < 50 ? RED : (participPercent < 50 ? YELLOW : GREEN)) +
+			final Double votedPercent = (resultPercent * participPercent) / 100;
+			
+			System.out.println((resultPercent < 50.0 ? RED : (votedPercent < 25.0 ? YELLOW : GREEN)) +
 					"     -> Candidat en tête : " + infosResult[0] + " - " + infosResult[1] 
 							+ " - " + resultPercent + "%" + RESET);
 			
-			if (resultPercent >= 50.0 && participPercent >= 50.0)
+			if (resultPercent >= 50.0 && votedPercent >= 25.0)
+			{
 				elus.put(infosResult[1], elus.getOrDefault(infosResult[1], 0) + 1);
+			}
+			
 			firstPlace.put(infosResult[1], firstPlace.getOrDefault(infosResult[1], 0) + 1);
 		}
 		
