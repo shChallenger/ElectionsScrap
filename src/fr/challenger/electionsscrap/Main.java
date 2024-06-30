@@ -266,15 +266,22 @@ public class Main {
 	{
 		int i = 0;
 		
-		partis.sort((e1, e2) -> e2.getValue().compareTo(e1.getValue()));
+		partis.sort((e1, e2) -> {
+            int valueCompare = e2.getValue().compareTo(e1.getValue());
+            if (valueCompare != 0) {
+                return valueCompare;
+            } else {
+                return e1.getKey().compareTo(e2.getKey());
+            }
+        });
 		
-		System.out.println("\n" + category + " :\n");
+		System.out.println("\n" + category.toUpperCase() + " :\n");
 		
 		while (i < partis.size())
 		{
 			final Entry<String, Integer> parti = partis.get(i++);
 			
-			System.out.println(i + ". " + parti.getKey() + " : " + parti.getValue() + " députés élus");
+			System.out.println(i + ". " + parti.getKey() + " : " + parti.getValue() + " " + category);
 		}
 	}
 	
@@ -284,8 +291,8 @@ public class Main {
 		final List<Map.Entry<String, Integer>> partisFirst = new ArrayList<>(elus.getLeft().entrySet());
 		final List<Map.Entry<String, Integer>> partisElus = new ArrayList<>(elus.getRight().entrySet());
 		
-		printForCategory("DÉPUTÉS EN TÊTE", partisFirst);
-		printForCategory("DÉPUTÉS ÉLUS", partisElus);
+		printForCategory("députés en tête", partisFirst);
+		printForCategory("députés élus", partisElus);
 	}
 	
 	public static void main(String[] args) throws InterruptedException
