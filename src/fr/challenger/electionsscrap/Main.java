@@ -267,7 +267,7 @@ public class Main {
 		{
 			final Entry<String, Integer> parti = partis.get(i++);
 			
-			System.out.println("1. " + parti.getKey() + " : " + parti.getValue() + " députés élus");
+			System.out.println(i + ". " + parti.getKey() + " : " + parti.getValue() + " députés élus");
 		}
 	}
 	
