@@ -295,7 +295,7 @@ public class Main {
 		printForCategory("députés élus", partisElus);
 	}
 	
-	public static void main(String[] args) throws InterruptedException
+	public static void main(String[] args)
 	{
 		printForAll();
 	}
