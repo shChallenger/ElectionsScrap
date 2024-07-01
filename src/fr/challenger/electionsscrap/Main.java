@@ -243,17 +243,15 @@ public class Main {
 					circon.indexOf('%', participIndex));
 			final Double participPercent = Double.valueOf(participResult);
 			
-			final String topResult = circon.substring(circon.indexOf(CANDIDAT_MOTIF, 50) + CANDIDAT_MOTIF.length());
-			
 			System.out.println("  * Circonscription n°" + (i - 2) 
 					+ " : (Participation: " + participPercent + "%)");
+			
+			final String topResult = circon.substring(circon.indexOf(CANDIDAT_MOTIF, 50) + CANDIDAT_MOTIF.length());
 			
 			final String[] infosResult = topResult.substring(2, topResult.indexOf('%')).split(", ");
 			
 			final Double resultPercent = Double.valueOf(infosResult[2]);
-			
 			final Double votedPercent = (resultPercent * participPercent) / 100;
-			
 			final String parti = infosResult[1].split("-")[0];
 			
 			System.out.println((resultPercent < 50.0 ? RED : (votedPercent < 25.0 ? YELLOW : GREEN)) +
@@ -302,21 +300,20 @@ public class Main {
 	
 	private static void printForCategory(final String category, final List<Map.Entry<String, Integer>> partis)
 	{
-		int i = 0;
 		int total = 0;
 		
-		partis.sort((e1, e2) -> {
-			int valueCompare = e2.getValue().compareTo(e1.getValue());
-			if (valueCompare != 0) {
-				return valueCompare;
-			} else {
-				return e1.getKey().compareTo(e2.getKey());
-			}
+		partis.sort((e1, e2) ->
+		{
+			final int valueCompare = e2.getValue().compareTo(e1.getValue());
+			
+			if (valueCompare != 0) return valueCompare;
+			
+			return e1.getKey().compareTo(e2.getKey());
 		});
 		
 		System.out.println("\n" + category.toUpperCase() + " :\n");
 		
-		while (i < partis.size())
+		for (int i = 0; i < partis.size(); )
 		{
 			final Entry<String, Integer> parti = partis.get(i++);
 			
@@ -324,8 +321,8 @@ public class Main {
 			
 			final String majorite = (parti.getValue() >= CIRCONS_ABSOLU) ? CYAN + " [MAJORITÉ ABSOLUE]" + RESET : "";
 			
-			System.out.println("| " + i + ". " + parti.getKey() + " : " + parti.getValue(
-					) + " " + category + majorite);
+			System.out.println("| " + i + ". " + parti.getKey() + " : " + parti.getValue() 
+								+ " " + category + majorite);
 				
 		}
 		
@@ -335,8 +332,8 @@ public class Main {
 	private static void printForAll()
 	{
 		final Pair<Map<String, Integer>, Map<String, Integer>> elus = countForAll();
-		final List<Map.Entry<String, Integer>> partisFirst = new ArrayList<>(elus.getLeft().entrySet());
-		final List<Map.Entry<String, Integer>> partisElus = new ArrayList<>(elus.getRight().entrySet());
+		final List<Entry<String, Integer>> partisFirst = new ArrayList<>(elus.getLeft().entrySet());
+		final List<Entry<String, Integer>> partisElus = new ArrayList<>(elus.getRight().entrySet());
 		
 		printForCategory("députés en tête", partisFirst);
 		printForCategory("députés élus (1er tour)", partisElus);

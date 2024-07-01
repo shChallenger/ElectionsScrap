@@ -1454,28 +1454,42 @@
 [31m     -> Candidat en tête : Roland LESCURE - Ensemble - 38.84%[0m
   * Circonscription n°2 : (Participation: 23.86%)
 [31m     -> Candidat en tête : Sergio CORONADO - Nouveau Front populaire - 36.16%[0m
+  * Circonscription n°3 : (Participation: 43.24%)
+[31m     -> Candidat en tête : Charlotte MINVIELLE - Nouveau Front populaire - 39.22%[0m
   * Circonscription n°4 : (Participation: 47.64%)
 [31m     -> Candidat en tête : Cécilia GONDARD - Nouveau Front populaire - 37.45%[0m
+  * Circonscription n°5 : (Participation: 37.83%)
+[31m     -> Candidat en tête : Stéphane VOJETTA - Divers centre - 33.68%[0m
+  * Circonscription n°6 : (Participation: 39.94%)
+[31m     -> Candidat en tête : Marc FERRACCI - Ensemble - 40.54%[0m
   * Circonscription n°7 : (Participation: 44.76%)
 [31m     -> Candidat en tête : Frédéric PETIT - Ensemble - 37.78%[0m
+  * Circonscription n°8 : (Participation: 22.2%)
+[31m     -> Candidat en tête : Meyer HABIB - Les Républicains - 35.58%[0m
+  * Circonscription n°9 : (Participation: 27.74%)
+[31m     -> Candidat en tête : Karim BEN CHEÏKH - Nouveau Front populaire - 49.35%[0m
+  * Circonscription n°10 : (Participation: 32.06%)
+[31m     -> Candidat en tête : Elsa DI MEO - Nouveau Front populaire - 32.52%[0m
+  * Circonscription n°11 : (Participation: 41.01%)
+[31m     -> Candidat en tête : Anne GENETET - Ensemble - 40.01%[0m
 
 
 DÉPUTÉS EN TÊTE :
 
 | 1. Rassemblement national : 296 députés en tête[36m [MAJORITÉ ABSOLUE][0m
-| 2. Nouveau Front populaire : 152 députés en tête
-| 3. Ensemble : 60 députés en tête
+| 2. Nouveau Front populaire : 155 députés en tête
+| 3. Ensemble : 62 députés en tête
 | 4. Divers droite : 18 députés en tête
-| 5. Les Républicains : 15 députés en tête
+| 5. Les Républicains : 16 députés en tête
 | 6. Divers gauche : 12 députés en tête
 | 7. Régionaliste : 9 députés en tête
-| 8. Horizons : 3 députés en tête
-| 9. Divers centre : 2 députés en tête
+| 8. Divers centre : 3 députés en tête
+| 9. Horizons : 3 députés en tête
 | 10. Ecologiste : 1 députés en tête
 | 11. Extrême droite : 1 députés en tête
 | 12. Parti socialiste : 1 députés en tête
 
-| Députés étudiés : 570 / 577
+| Députés étudiés : 577 / 577
 
 DÉPUTÉS ÉLUS (1ER TOUR) :
 
