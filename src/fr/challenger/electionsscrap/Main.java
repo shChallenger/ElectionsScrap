@@ -16,6 +16,7 @@ public class Main {
 	private static final int SLEEP_MS = 100;
 	private static final int RESPONSE_OK = 200;
 	private static final int CIRCONS_TOTAL = 577;
+	private static final int CIRCONS_ABSOLU = (CIRCONS_TOTAL + 1) / 2;
 	private static final String baseLink = "https://www.francetvinfo.fr/elections/resultats/";
 	
 	private static final String CIRCON_MOTIF = "result-panel__left-col";
@@ -321,7 +322,11 @@ public class Main {
 			
 			total += parti.getValue();
 			
-			System.out.println("| " + i + ". " + parti.getKey() + " : " + parti.getValue() + " " + category);
+			final String majorite = (parti.getValue() >= CIRCONS_ABSOLU) ? CYAN + " [MAJORITÉ ABSOLUE]" + RESET : "";
+			
+			System.out.println("| " + i + ". " + parti.getKey() + " : " + parti.getValue(
+					) + " " + category + majorite);
+				
 		}
 		
 		System.out.println("\n| Députés étudiés : " + total + " / " + CIRCONS_TOTAL);
@@ -334,7 +339,7 @@ public class Main {
 		final List<Map.Entry<String, Integer>> partisElus = new ArrayList<>(elus.getRight().entrySet());
 		
 		printForCategory("députés en tête", partisFirst);
-		printForCategory("députés élus", partisElus);
+		printForCategory("députés élus (1er tour)", partisElus);
 	}
 	
 	public static void main(String[] args)
