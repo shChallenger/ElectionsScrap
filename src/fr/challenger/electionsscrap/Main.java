@@ -201,7 +201,7 @@ public class Main {
 		final StringBuilder builder = new StringBuilder();
 		String line;
 
-        try {
+		try {
 			while ((line = reader.readLine()) != null)
 			{
 				builder.append(line);
@@ -212,10 +212,10 @@ public class Main {
 		}
         
         try {
-			reader.close();
-		} catch (IOException e) {
+        	reader.close();
+        } catch (IOException e) {
 			e.printStackTrace();
-		}
+        }
 		
 		return builder.toString();
 	}
@@ -305,13 +305,13 @@ public class Main {
 		int total = 0;
 		
 		partis.sort((e1, e2) -> {
-            int valueCompare = e2.getValue().compareTo(e1.getValue());
-            if (valueCompare != 0) {
-                return valueCompare;
-            } else {
-                return e1.getKey().compareTo(e2.getKey());
-            }
-        });
+			int valueCompare = e2.getValue().compareTo(e1.getValue());
+			if (valueCompare != 0) {
+				return valueCompare;
+			} else {
+				return e1.getKey().compareTo(e2.getKey());
+			}
+		});
 		
 		System.out.println("\n" + category.toUpperCase() + " :\n");
 		
