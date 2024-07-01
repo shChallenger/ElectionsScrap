@@ -211,11 +211,11 @@ public class Main {
 			return null;
 		}
         
-        try {
-        	reader.close();
-        } catch (IOException e) {
+		try {
+			reader.close();
+		} catch (IOException e) {
 			e.printStackTrace();
-        }
+		}
 		
 		return builder.toString();
 	}
