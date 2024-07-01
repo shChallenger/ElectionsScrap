@@ -15,6 +15,7 @@ public class Main {
 	
 	private static final int SLEEP_MS = 100;
 	private static final int RESPONSE_OK = 200;
+	private static final int CIRCONS_TOTAL = 577;
 	private static final String baseLink = "https://www.francetvinfo.fr/elections/resultats/";
 	
 	private static final String CIRCON_MOTIF = "result-panel__left-col";
@@ -145,7 +146,13 @@ public class Main {
 		    "martinique_972",
 		    "guyane_973",
 		    "la-reunion_974",
-		    "mayotte_976"
+		    "saint-pierre-et-miquelon_975",
+		    "mayotte_976",
+		    "saint-martin-saint-barthelemy_977",
+		    "wallis-et-futuna_986",
+		    "polynesie-francaise_987",
+		    "nouvelle-caledonie_988",
+		    "francais-de-l-etranger_99"
 		};
 	
 	private static void sleep()
@@ -295,6 +302,7 @@ public class Main {
 	private static void printForCategory(final String category, final List<Map.Entry<String, Integer>> partis)
 	{
 		int i = 0;
+		int total = 0;
 		
 		partis.sort((e1, e2) -> {
             int valueCompare = e2.getValue().compareTo(e1.getValue());
@@ -311,8 +319,12 @@ public class Main {
 		{
 			final Entry<String, Integer> parti = partis.get(i++);
 			
-			System.out.println(i + ". " + parti.getKey() + " : " + parti.getValue() + " " + category);
+			total += parti.getValue();
+			
+			System.out.println("| " + i + ". " + parti.getKey() + " : " + parti.getValue() + " " + category);
 		}
+		
+		System.out.println("\n| Députés étudiés : " + total + " / " + CIRCONS_TOTAL);
 	}
 	
 	private static void printForAll()
