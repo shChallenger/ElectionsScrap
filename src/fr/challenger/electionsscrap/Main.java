@@ -17,7 +17,7 @@ public class Main {
 	private static final int RESPONSE_OK = 200;
 	private static final int CIRCONS_TOTAL = 577;
 	private static final int CIRCONS_ABSOLU = (CIRCONS_TOTAL + 1) / 2;
-	private static final String baseLink = "https://www.francetvinfo.fr/elections/resultats/";
+	private static final String BASE_LINK = "https://www.francetvinfo.fr/elections/resultats/";
 	
 	private static final String CIRCON_MOTIF = "result-panel__left-col";
 	private static final String PARTICIP_MOTIF = "result-participation__percent";
@@ -171,7 +171,7 @@ public class Main {
 		final HttpURLConnection urlConnection;
 		
 		try {
-			url = new URL(baseLink + page);
+			url = new URL(BASE_LINK + page);
 			urlConnection = (HttpURLConnection) url.openConnection();
 		} catch (IOException e) {
 			e.printStackTrace();
